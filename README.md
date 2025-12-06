@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FOOTBALL one-word domains still available to buy.
 
-This dataset contains 4,690 .FOOTBALL one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,686 .FOOTBALL one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FOOTBALL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=football-oneword-domains&utm_content=description.top) (4,690) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.FOOTBALL one word dom
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.football        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.football      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.football      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.football  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.football      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.football  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.FOOTBALL one word dom
 | abatic.football     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.football    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.football   | available | 50       | 1%     | 8      |           |         |         |
-| abc.football        | available | 102      | 41%    | 3      |           |         |         |
+| abc.football        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.football  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.football  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.football | available | 56       | 1%     | 10     |           |         |         |
