@@ -1,22 +1,22 @@
-# Available .FOOTBALL One-Word Domains (9,417)
+# Available .FOOTBALL One-Word Domains (9,415)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C416%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C417%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C415%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .football one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .football one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,416-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,417 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,416 rows · **Live catalog:** 9,417 domains
+**Public extract:** 9,416 rows · **Live catalog:** 9,415 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/football`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| zero.football     | available | $19.99    | $37.99        | 112            | 54     | 4      | name.com               |
+| alpha.football    | available | $19.99    | $37.99        | 90             | 54     | 5      | name.com               |
 | kick.football     | resell    | —         | —             | 98             | 80     | 4      | Automattic Inc.        |
 | free.football     | premium   | $1,000    | $1,000        | 88             | 59     | 4      | name.com               |
-| alpha.football    | available | $19.99    | $37.99        | 90             | 53     | 5      | name.com               |
+| zero.football     | available | $19.99    | $37.99        | 112            | 53     | 4      | name.com               |
 | get.football      | resell    | —         | —             | 88             | 69     | 3      | NameCheap, Inc.        |
 | abc.football      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap              |
 | fast.football     | available | $19.99    | $37.99        | 82             | 53     | 4      | name.com               |
@@ -76,7 +76,7 @@ print(df.head())
 | design.football   | available | $19.99    | $37.99        | 108            | 50     | 6      | name.com               |
 | future.football   | resell    | —         | —             | 94             | 55     | 6      | Spaceship, Inc.        |
 | travel.football   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap              |
-| clear.football    | available | $19.99    | $37.99        | 90             | 50     | 5      | name.com               |
+| clear.football    | available | $19.99    | $37.99        | 90             | 49     | 5      | name.com               |
 | good.football     | resell    | —         | —             | 82             | 55     | 4      | Dynadot Inc            |
 | big.football      | premium   | $123.75   | $123.75       | 88             | 47     | 3      | name.com               |
 | security.football | available | $36.98    | —             | 70             | 49     | 8      | namecheap              |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,416-row public sample | 9,417 live domains                               |
+| 9,416-row public sample | 9,415 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOTBALL One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOTBALL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
