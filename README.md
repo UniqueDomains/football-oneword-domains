@@ -66,14 +66,14 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
 | zero.football     | available | $19.99    | $37.99        | 112            | 53     | 4      | name.com               |
 | kick.football     | resell    | —         | —             | 98             | 80     | 4      | Automattic Inc.        |
-| free.football     | premium   | $1,000    | $1,000        | 88             | 59     | 4      | name.com               |
+| free.football     | premium   | $1,000    | $1,000        | 88             | 57     | 4      | name.com               |
 | alpha.football    | available | $19.99    | $37.99        | 90             | 53     | 5      | name.com               |
 | get.football      | resell    | —         | —             | 88             | 69     | 3      | NameCheap, Inc.        |
 | abc.football      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap              |
-| fast.football     | available | $19.99    | $37.99        | 82             | 53     | 4      | name.com               |
+| fast.football     | available | $19.99    | $37.99        | 82             | 52     | 4      | name.com               |
 | data.football     | resell    | —         | —             | 70             | 56     | 4      | Go France Domains, LLC |
 | air.football      | premium   | $42.90    | $42.90        | 84             | 49     | 3      | namecheap              |
-| design.football   | available | $19.99    | $37.99        | 108            | 50     | 6      | name.com               |
+| design.football   | available | $19.99    | $37.99        | 108            | 49     | 6      | name.com               |
 | future.football   | resell    | —         | —             | 94             | 55     | 6      | Spaceship, Inc.        |
 | travel.football   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap              |
 | clear.football    | available | $19.99    | $37.99        | 90             | 49     | 5      | name.com               |
