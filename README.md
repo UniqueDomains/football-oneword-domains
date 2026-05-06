@@ -1,10 +1,10 @@
-# Available .FOOTBALL One-Word Domains (12,352)
+# Available .FOOTBALL One-Word Domains (12,354)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C352%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C354%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .football one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,352 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,354 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,352 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,354 domains · **Median ask:** $25.37 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/football`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Trex.football      | available | $36.98    | —             | 80             | 24     | 5      | namecheap       |
+| homes.football     | available | $19.99    | —             | 86             | 34     | 5      | name.com        |
+| finals.football    | available | $19.99    | —             | 80             | 7      | 6      | name.com        |
+| forces.football    | available | $19.99    | —             | 82             | 12     | 6      | name.com        |
+| getup.football     | available | $19.99    | —             | 82             | 14     | 6      | name.com        |
+| dogsit.football    | available | $19.99    | —             | 96             | 2      | 6      | name.com        |
+| QandA.football     | available | $36.98    | —             | 80             | 10     | 7      | namecheap       |
+| hangon.football    | available | $19.99    | —             | 82             | 6      | 7      | name.com        |
+| makeit.football    | available | $19.99    | —             | 82             | 22     | 7      | name.com        |
+| watches.football   | available | $19.99    | —             | 84             | 19     | 7      | name.com        |
+| dogsick.football   | available | $19.99    | —             | 90             | 1      | 7      | name.com        |
+| getlife.football   | available | $19.99    | —             | 80             | 5      | 8      | name.com        |
 | skills.football    | available | $19.99    | —             | 58             | 47     | 6      | name.com        |
 | bit.football       | resell    | —         | —             | 76             | 46     | 3      | Spaceship, Inc. |
 | jobs.football      | premium   | $1,000    | —             | 79             | 42     | 4      | name.com        |
 | shortcuts.football | available | $19.99    | —             | 48             | 41     | 10     | name.com        |
-| bank.football      | resell    | —         | —             | 70             | 38     | 4      | Sav.com, LLC    |
+| bank.football      | resell    | —         | —             | 70             | 39     | 4      | Sav.com, LLC    |
 | tips.football      | premium   | $41.25    | —             | 80             | 26     | 4      | name.com        |
 | whynot.football    | available | $19.99    | —             | 74             | 39     | 7      | name.com        |
 | mall.football      | resell    | —         | —             | 82             | 27     | 4      | Sav.com, LLC    |
-| schools.football   | premium   | $123.75   | —             | 72             | 24     | 7      | name.com        |
-| tokens.football    | available | $19.99    | —             | 51             | 36     | 6      | name.com        |
-| blogs.football     | premium   | $118.80   | $118.80       | 52             | 21     | 5      | namesilo        |
-| homes.football     | available | $19.99    | —             | 86             | 34     | 5      | name.com        |
-| spectra.football   | available | $19.99    | —             | 62             | 34     | 7      | name.com        |
-| spaces.football    | available | $19.99    | —             | 54             | 30     | 6      | name.com        |
-| forms.football     | available | $19.99    | —             | 54             | 28     | 5      | name.com        |
-| backyard.football  | available | $19.99    | —             | 80             | 27     | 9      | name.com        |
-| systems.football   | available | $19.99    | —             | 46             | 27     | 7      | name.com        |
-| traders.football   | available | $19.99    | —             | 60             | 26     | 7      | name.com        |
-| Trex.football      | available | $36.98    | —             | 80             | 24     | 5      | namecheap       |
-| comics.football    | available | $19.99    | —             | 68             | 24     | 6      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,352 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,354 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .football extension, so the main question is not whether they fit football, but which ones carry the strongest meaning with the least friction. In this set, examples like finals.football, homes.football, WiFi.football, and Trex.football show a mix of generic terms, broad words, and brand-like strings. The median ask is 25.37, which keeps entry cost modest, but low price alone does not make a name strong. When comparing these domains, prioritize words that are easy to say, easy to remember, and clearly compatible with a football audience or business concept.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that sound natural with .football
+- Check if the term is clear, memorable, and easy to spell
+- Generic terms can be stronger than obscure brand-like strings
+- Review trademark risk before valuing a name highly
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOTBALL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOTBALL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
