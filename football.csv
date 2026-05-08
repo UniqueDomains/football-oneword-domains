@@ -504,7 +504,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2db29267-9dee-45a4-b65b-bba10ac261fc,laptops.football,available,19.99,,56,8,7,name.com,,
 2db3ee2e-16b3-491c-8a95-fe648bd33b26,puddings.football,available,19.99,,57,2,8,name.com,,
 2de7e802-7f46-4344-81c4-76dbe5249aee,alternativerock.football,available,19.99,,72,1,16,name.com,,
-2e71c47e-f1c8-4e8d-8028-5e1016989eb5,mall.football,resell,,,82,27,4,"Sav.com, LLC",08/07/2025 09:00,08/07/2026 09:00
+2e71c47e-f1c8-4e8d-8028-5e1016989eb5,mall.football,resell,,,82,29,4,"Sav.com, LLC",08/07/2025 09:00,08/07/2026 09:00
 2ec16f23-fe91-46ea-a49b-d2a906bf1599,equalization.football,available,19.99,,74,1,12,name.com,,
 2ee08482-6685-49a8-be70-8569d509f51d,screens.football,available,19.99,,54,13,7,name.com,,
 2efcc3bf-d6d6-4d89-9463-bd26290140b5,neighbours.football,available,19.99,,53,7,10,name.com,,
