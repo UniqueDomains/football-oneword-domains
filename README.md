@@ -71,7 +71,6 @@ print(df.head())
 | getup.football     | available | $19.99    | —             | 82             | 14     | 6      | name.com        |
 | dogsit.football    | available | $19.99    | —             | 96             | 2      | 6      | name.com        |
 | QandA.football     | available | $36.98    | —             | 80             | 10     | 7      | namecheap       |
-| hangon.football    | available | $19.99    | —             | 82             | 6      | 7      | name.com        |
 | makeit.football    | available | $19.99    | —             | 82             | 22     | 7      | name.com        |
 | watches.football   | available | $19.99    | —             | 84             | 19     | 7      | name.com        |
 | dogsick.football   | available | $19.99    | —             | 90             | 1      | 7      | name.com        |
@@ -84,6 +83,7 @@ print(df.head())
 | tips.football      | premium   | $41.25    | —             | 80             | 26     | 4      | name.com        |
 | whynot.football    | available | $19.99    | —             | 74             | 39     | 7      | name.com        |
 | mall.football      | resell    | —         | —             | 82             | 29     | 4      | Sav.com, LLC    |
+| schools.football   | premium   | $123.75   | —             | 72             | 24     | 7      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
