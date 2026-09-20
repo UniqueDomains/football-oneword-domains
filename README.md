@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .football one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,183 domains · **Median ask:** $24.73 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/football`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | aft.football     | available | $19.99    | $37.99        | low            | low    | 3      | name.com        |
 | europe.football  | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC    |
 | her.football     | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo        |
-| age.football     | available | $19.99    | $37.99        | medium         | low    | 3      | name.com        |
+| age.football     | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo        |
 | future.football  | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
 | liv.football     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
 | ago.football     | available | $19.99    | $37.99        | medium         | low    | 3      | name.com        |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOOTBALL One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOOTBALL One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
