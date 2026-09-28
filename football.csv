@@ -3,13 +3,13 @@ f6324d46-2128-430b-8469-215e1f4c43a6,bead.football,available,19.99,,high,low,4,n
 51286be3-08f1-4b43-ae36-a865e759e56c,magnate.football,available,25.99,25.99,high,low,7,namesilo,,,23/09/2026 14:16
 664b8761-9d34-4042-b35a-d3849cfc844e,uncut.football,available,25.99,25.99,high,low,5,namesilo,,,12/09/2026 06:52
 8cb2a51b-785f-4de9-8333-d3d89ee30991,assisted.football,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 23:41
-cc262828-94b8-4f51-9818-a7509934ea2b,drops.football,available,25.99,25.99,high,low,5,namesilo,,,18/09/2026 04:47
+cc262828-94b8-4f51-9818-a7509934ea2b,drops.football,available,25.99,25.99,medium,low,5,namesilo,,,18/09/2026 04:47
 045b2f06-3541-491d-9606-ded09d75eea0,rectal.football,available,19.99,37.99,medium,low,6,name.com,,,09/09/2026 11:51
 7658528c-be6a-46c7-817e-8e5dda6ab10a,antoninus.football,available,25.99,25.99,medium,low,9,namesilo,,,19/09/2026 15:34
 f05e2eca-421a-4630-8d20-d917d5f51a45,xlvii.football,available,19.99,37.99,medium,low,5,name.com,,,
 d9c769f3-987c-48f6-a91d-01e1398c0ad7,slots.football,available,26.98,36.98,high,low,5,namecheap,,,20/09/2026 10:58
 d279ccb4-f513-47ff-bc52-320477e4adc2,sabin.football,available,26.98,36.98,medium,low,5,namecheap,,,18/09/2026 02:37
-df74731c-eaf0-4b97-9d45-d2d67e9e91eb,indistinct.football,available,19.99,37.99,high,low,10,name.com,,,22/08/2026 03:14
+df74731c-eaf0-4b97-9d45-d2d67e9e91eb,indistinct.football,available,19.99,37.99,medium,low,10,name.com,,,22/08/2026 03:14
 a0336d2b-cb6a-49ae-8d89-d440ef94b4dc,intricate.football,available,26.98,36.98,high,low,9,namecheap,,,25/09/2026 10:49
 6de885ca-2054-4626-8f54-3dd017586deb,bahraini.football,available,19.99,37.99,medium,low,8,name.com,,,08/08/2026 08:36
 2f93007a-1016-42df-8e1a-77b671b3df3a,inflexible.football,available,19.99,37.99,medium,low,10,name.com,,,22/08/2026 04:32
@@ -33,11 +33,11 @@ fd4e5284-b2e2-48df-bdea-81b14b097f31,activator.football,available,25.99,25.99,hi
 39b30ee0-a718-4903-ba6f-834cb9e5daf0,sunstone.football,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 09:07
 66c2bb67-6104-49e5-8f2b-ca25c2ccae99,stroll.football,available,25.99,25.99,high,low,6,namesilo,,,18/09/2026 16:59
 05402334-7437-48e2-911b-f9700d9973c8,mutually.football,available,25.99,25.99,medium,low,8,namesilo,,,15/09/2026 15:56
-df12366a-7185-457e-b8f6-2589eef78f49,broached.football,available,19.99,37.99,high,low,8,name.com,,,
-8283e0af-072f-4919-ae77-854ba84494ed,rhodium.football,available,25.99,25.99,high,low,7,namesilo,,,20/09/2026 23:08
+df12366a-7185-457e-b8f6-2589eef78f49,broached.football,available,19.99,37.99,medium,low,8,name.com,,,
+8283e0af-072f-4919-ae77-854ba84494ed,rhodium.football,available,25.99,25.99,medium,low,7,namesilo,,,20/09/2026 23:08
 0ee0ebd9-dbdd-4f97-ae97-976e7b31a036,greetings.football,available,19.99,,high,low,9,name.com,,,
 e9fb9a3b-4a86-4683-b739-088a8a5c01e3,seize.football,available,26.98,36.98,high,low,5,namecheap,,,23/09/2026 20:08
-42aed187-7876-4917-977d-49d357cbdfd2,testimony.football,available,19.99,,high,low,9,name.com,,,
+42aed187-7876-4917-977d-49d357cbdfd2,testimony.football,available,25.99,25.99,high,low,9,namesilo,,,28/09/2026 02:23
 04eeb507-024c-466b-8da3-53506c6bc35a,apples.football,available,26.98,36.98,high,low,6,namecheap,,,18/09/2026 14:01
 7d4ae4ce-78de-459b-8189-f661f6b661be,holotype.football,available,25.99,25.99,high,low,8,namesilo,,,25/09/2026 23:08
 da320a16-3bbc-4b23-b3cb-b865d1862726,amnion.football,available,25.99,25.99,medium,low,6,namesilo,,,18/09/2026 22:24
@@ -46,14 +46,16 @@ fd88ffd1-4b99-4131-ad44-f16459ff63b4,anergy.football,available,26.98,36.98,mediu
 27658620-fd01-4243-a1e1-644b4216168f,bookmark.football,available,25.99,25.99,high,low,8,namesilo,,,24/09/2026 07:12
 8125b3da-3a07-4d9c-8577-010fc4755934,whalebone.football,available,25.99,25.99,medium,low,9,namesilo,,,21/09/2026 21:50
 fc3debe7-d002-4ecc-85e2-4377048d01c3,smokeless.football,available,25.99,25.99,high,low,9,namesilo,,,10/09/2026 11:57
+723eabce-a306-4636-8029-4df573c614ea,clemens.football,available,25.99,25.99,high,low,7,namesilo,,,27/09/2026 12:32
 1ecfdd05-206b-4a98-894b-43f134156287,protrude.football,available,25.99,25.99,high,low,8,namesilo,,,08/09/2026 23:44
 1e9b18ef-9378-4c5c-af65-c91e9306481f,flaxen.football,available,19.99,37.99,medium,low,6,name.com,,,18/08/2026 07:23
 eaccb18f-ad22-4c59-b2cb-c4c33aa78f40,bifurcate.football,available,19.99,37.99,high,low,9,name.com,,,09/08/2026 20:08
 e74c65f4-928b-4a94-8c03-92419f0a334a,bugbane.football,available,26.98,36.98,medium,low,7,namecheap,,,18/09/2026 20:09
 0a708f50-e96a-465a-9b53-94aff7d1905e,archerfish.football,available,25.99,25.99,medium,low,10,namesilo,,,20/09/2026 01:56
+f70d6eed-2aa1-4fef-8bbb-932a6f8640ce,mari.football,available,20.9,20.9,high,low,4,spaceship,,,28/09/2026 01:39
 5a406035-e703-4e35-b61c-ef00061a2fb1,leukaemia.football,available,25.99,25.99,medium,low,9,namesilo,,,24/09/2026 11:59
 53ba08e3-5c1c-4f57-9e35-93306d125ed2,cinematic.football,available,19.99,37.99,high,low,9,name.com,,,12/08/2026 08:13
-52557321-d2e7-4927-9dc3-438b8018fab1,selenium.football,available,25.99,25.99,high,low,8,namesilo,,,20/09/2026 22:53
+52557321-d2e7-4927-9dc3-438b8018fab1,selenium.football,available,25.99,25.99,medium,low,8,namesilo,,,20/09/2026 22:53
 d86167b8-a00b-4665-afdf-184bc4abb13b,lascivious.football,available,19.99,37.99,medium,low,10,name.com,,,22/08/2026 20:04
 9963d206-edee-432f-8933-90e14a85da80,hannibal.football,available,25.99,25.99,high,low,8,namesilo,,,27/09/2026 04:24
 37229e7c-e158-407f-afa2-56f35315a3bd,marital.football,available,19.99,37.99,high,low,7,name.com,,,24/08/2026 15:56
@@ -65,10 +67,10 @@ df58aaa0-0e19-42d6-814c-f1f683b3be8c,medial.football,available,19.99,37.99,high,
 1a47316c-ec3e-4820-a481-7f8de58ab1ac,firebird.football,available,25.99,25.99,high,low,8,namesilo,,,22/09/2026 00:21
 fd9f50a2-9afb-4f04-9885-8f83117b87d1,ajuga.football,available,26.98,36.98,medium,low,5,namecheap,,,17/09/2026 23:42
 2d4db07a-3b1e-4774-9989-f0ced9f2f0ab,uppish.football,available,19.99,37.99,low,low,6,name.com,,,09/08/2026 20:46
-f33e3a06-3622-46bb-a135-b6cb76b28a7a,aborigine.football,available,19.99,37.99,high,low,9,name.com,,,
+f33e3a06-3622-46bb-a135-b6cb76b28a7a,aborigine.football,available,19.99,37.99,medium,low,9,name.com,,,
 ad62af1e-147f-43a6-9211-d3573e3c3788,computing.football,available,25.99,25.99,high,low,9,namesilo,,,19/09/2026 12:12
 d6f97fa2-9509-4e06-95b7-089812256569,deictic.football,available,19.99,37.99,medium,low,7,name.com,,,14/08/2026 00:12
-dee694cd-f72e-4a7e-8dff-65a427fc5e3a,quavering.football,available,25.99,25.99,high,low,9,namesilo,,,09/09/2026 07:44
+dee694cd-f72e-4a7e-8dff-65a427fc5e3a,quavering.football,available,25.99,25.99,medium,low,9,namesilo,,,09/09/2026 07:44
 d6285b9e-6592-4c93-8e69-9baca2f4407c,bae.football,available,19.99,,high,low,3,name.com,,,
 f84ba68d-13d1-451d-9e94-a158d4377c0a,numbers.football,available,19.99,,high,low,7,name.com,,,
 f4f5f007-5c46-49ef-98d7-5a9302f5f2f4,milfoil.football,available,25.99,25.99,medium,low,7,namesilo,,,17/09/2026 00:37
@@ -80,11 +82,11 @@ ae469a9a-7ccf-4139-8863-824ac789d3b4,ships.football,available,25.99,25.99,medium
 a16ac2ee-401a-4d4f-9e02-a0ef7b41ee7b,language.football,available,25.99,25.99,high,low,8,namesilo,,,25/09/2026 15:54
 90fa532d-2d1c-4d52-ab63-5e686f815e68,mesmerised.football,available,19.99,37.99,medium,low,10,name.com,,,17/08/2026 22:52
 13535824-5a8f-45f6-bfaa-3806251040e6,familial.football,available,19.99,37.99,high,low,8,name.com,,,17/08/2026 21:41
-b8e1d17f-1875-429b-a85b-36900c06c008,frothy.football,available,19.99,37.99,high,low,6,name.com,,,11/08/2026 07:22
+b8e1d17f-1875-429b-a85b-36900c06c008,frothy.football,available,19.99,37.99,medium,low,6,name.com,,,11/08/2026 07:22
 3431e962-ebee-4a0e-99e1-e24b7bbb98b8,refreshment.football,available,25.99,25.99,high,low,11,namesilo,,,19/09/2026 14:11
 05c8ac55-0977-4dde-930d-3640831f36d7,alfatah.football,available,25.99,25.99,medium,low,8,namesilo,,,18/09/2026 00:22
 282ea1bd-fa77-4aa6-b5d9-a898ee0f4f22,sulfurized.football,available,19.99,37.99,medium,low,10,name.com,,,11/09/2026 01:25
-ba3c8901-cf63-4a2c-b99e-03322fc01ce3,curvaceous.football,available,19.99,37.99,high,low,10,name.com,,,10/08/2026 20:30
+ba3c8901-cf63-4a2c-b99e-03322fc01ce3,curvaceous.football,available,19.99,37.99,medium,low,10,name.com,,,10/08/2026 20:30
 93033160-c38d-47a6-9398-cfc1d48a47de,neem.football,available,25.99,25.99,high,low,4,namesilo,,,20/09/2026 05:40
 22cab38d-79da-477c-9a3e-00ebad2bfff4,fuddled.football,available,19.99,37.99,low,low,7,name.com,,,09/08/2026 15:36
 2e0efac4-228a-4c92-99a0-91ff35d2fe0d,paired.football,available,19.99,37.99,high,low,6,name.com,,,04/09/2026 23:11
@@ -137,12 +139,14 @@ e1ba726b-90a0-4c44-8d3d-45a326920e75,richly.football,available,25.99,25.99,high,
 89796911-ac63-446a-a8a1-50e0dceb50d8,geodesic.football,available,19.99,37.99,high,low,8,name.com,,,18/08/2026 22:23
 56ba5cf9-81ce-481d-8d22-14742bed53f3,semisweet.football,available,25.99,25.99,medium,low,9,namesilo,,,10/09/2026 03:29
 87f0556d-6582-4d48-ba1a-3b3e33c47320,akhenaton.football,available,26.98,36.98,medium,low,9,namecheap,,,17/09/2026 23:57
+316c1169-0d78-4969-92e7-02eb7c9bf133,tops.football,available,26.98,36.98,high,low,4,namecheap,,,27/09/2026 21:56
 2c5ed562-fd67-476b-8ecb-2d3280502847,folding.football,available,26.98,36.98,high,low,7,namecheap,,,24/09/2026 20:52
+0458a019-bd5c-4d66-a747-0c4fe738db6f,artists.football,available,25.99,25.99,high,low,7,namesilo,,,28/09/2026 00:02
 dfd7ea8c-5b9c-4623-a543-ab8700378e41,benumb.football,available,25.99,25.99,medium,low,6,namesilo,,,03/09/2026 22:47
 fe443ab8-4c9f-45b7-941e-41aade1a91b3,award.football,available,25.99,25.99,high,low,5,namesilo,,,27/09/2026 06:31
 2510e20a-086b-494c-bb81-ac95a549e03e,maximal.football,available,19.99,37.99,high,low,7,name.com,,,24/08/2026 17:54
 95abc336-aeb1-42b4-ab3d-9e79e2937dd6,ache.football,available,19.99,37.99,medium,low,4,name.com,,,
-1c76f366-c657-437a-8082-a4509f547871,larceny.football,available,25.99,25.99,high,low,7,namesilo,,,11/09/2026 13:18
+1c76f366-c657-437a-8082-a4509f547871,larceny.football,available,25.99,25.99,medium,low,7,namesilo,,,11/09/2026 13:18
 95cbe28e-e07f-44d9-9e0c-30cecfffcb6e,zapotec.football,available,25.99,25.99,high,low,7,namesilo,,,13/09/2026 15:07
 3b04f6c0-8f73-4431-a17e-910bcc840873,spinning.football,available,25.99,25.99,high,low,8,namesilo,,,27/09/2026 05:29
 fb315b19-bffd-440b-8ae1-26449ab5e9fc,expound.football,available,19.99,37.99,high,low,7,name.com,,,16/08/2026 00:37
@@ -152,6 +156,7 @@ fb315b19-bffd-440b-8ae1-26449ab5e9fc,expound.football,available,19.99,37.99,high
 fbfe9f66-a4ee-4d22-88a7-4f9473d2df63,windless.football,available,25.99,25.99,medium,low,8,namesilo,,,13/09/2026 12:14
 1abddbe4-2e57-4fa7-9b0e-425f4545e4b4,designed.football,available,26.98,36.98,high,low,8,namecheap,,,24/09/2026 06:34
 b09b0ab2-e219-4d05-83a8-ec146e55c1ed,analogue.football,available,19.99,37.99,high,low,8,name.com,,,
+a5ab128a-3d80-4313-9969-acdf7948d74a,chester.football,available,20.2,20.2,high,low,7,cloudflare,,,28/09/2026 01:40
 373d7a17-69f2-4df2-8ce7-130d0eaebc5a,lakh.football,available,19.99,37.99,medium,low,4,name.com,,,21/08/2026 15:36
 d26e3509-b7c0-49e2-b60d-09dd42709869,moi.football,available,19.99,,high,low,3,name.com,,,
 708b0630-1dc8-4677-8bb7-c9139e140694,applause.football,available,26.98,36.98,high,low,8,namecheap,,,19/09/2026 20:55
@@ -162,7 +167,7 @@ fb59b754-628b-4d7c-92e4-ef0d82d39eef,munificent.football,available,19.99,37.99,h
 ccec87c9-ddd9-47ba-af7a-bb587642eb7a,adults.football,available,25.99,25.99,medium,low,6,namesilo,,,27/09/2026 09:52
 b36f523e-6ad9-4e0b-97b9-30c3de28a211,connectivity.football,available,25.99,25.99,high,low,12,namesilo,,,24/09/2026 02:41
 875eb4b3-2422-476d-8fde-6cc52a486ff8,hacker.football,available,26.98,36.98,high,medium,6,namecheap,,,24/09/2026 20:44
-356eaad5-1b6a-43d7-be8d-5b57d4e04f97,mincing.football,available,19.99,37.99,high,low,7,name.com,,,13/08/2026 15:43
+356eaad5-1b6a-43d7-be8d-5b57d4e04f97,mincing.football,available,19.99,37.99,medium,low,7,name.com,,,13/08/2026 15:43
 ff60f50b-e438-4476-9acf-f9c148759fd4,warring.football,available,25.99,25.99,medium,low,7,namesilo,,,13/09/2026 08:11
 efec415a-bb1e-488d-868d-4cd855e94b19,worldling.football,available,25.99,25.99,medium,low,9,namesilo,,,11/09/2026 10:47
 cbfde500-b185-473b-8515-142d6aa99b61,renowned.football,available,19.99,37.99,high,low,8,name.com,,,11/08/2026 23:18
@@ -179,7 +184,8 @@ b2041577-5026-4178-be4b-e6ba9a0f3666,antibiotic.football,available,25.99,25.99,h
 0ee45dc6-0b72-43c3-9005-9adb28c2af13,autogiro.football,available,26.98,36.98,medium,low,8,namecheap,,,21/09/2026 06:22
 09a4b325-9f40-4803-acc9-76d447c4a8cd,rhenium.football,available,26.98,36.98,medium,low,7,namecheap,,,20/09/2026 23:48
 44f17aff-9bf4-4475-bc68-da7993d5ef43,arsonist.football,available,19.99,37.99,medium,low,8,name.com,,,22/08/2026 00:55
-29fbf386-2eb6-4021-9f59-e36578be6aeb,greased.football,available,19.99,37.99,high,low,7,name.com,,,20/08/2026 19:33
+a8698343-cd5e-41c2-9c7c-7d8cb81de490,depth.football,available,20.9,20.9,high,low,5,spaceship,,,28/09/2026 01:46
+29fbf386-2eb6-4021-9f59-e36578be6aeb,greased.football,available,19.99,37.99,medium,low,7,name.com,,,20/08/2026 19:33
 7b89e40e-a866-438a-a9ba-1f73ed6a0b2e,sustained.football,available,19.99,37.99,high,low,9,name.com,,,18/08/2026 14:51
 2f63527e-b2f2-4619-a58e-ba9e15bbfde5,amylaceous.football,available,19.99,37.99,medium,low,10,name.com,,,
 f414205b-39aa-4113-a525-8b6b33a9a34a,marbled.football,available,19.99,37.99,medium,low,7,name.com,,,24/08/2026 15:47
@@ -190,6 +196,7 @@ d7ad375b-e5a8-4ff2-94af-d16ef3dc7e89,carrying.football,available,19.99,,high,low
 bb361ded-a1b8-49ba-92ba-b32546af85bf,allegretto.football,available,19.99,37.99,high,low,10,name.com,,,
 88a1a744-98eb-4858-a947-affc50e4a10c,stressful.football,available,25.99,25.99,medium,low,9,namesilo,,,03/09/2026 15:42
 ab75bdf4-577f-46df-99ad-880041562ae8,meek.football,available,19.99,37.99,high,low,4,name.com,,,24/08/2026 19:16
+7f8bec54-82b1-4148-9dcc-e91d5347a7bf,execute.football,available,25.99,25.99,high,low,7,namesilo,,,27/09/2026 16:26
 820d8b33-cef8-4ca6-a074-506baf389b04,driving.football,available,25.99,25.99,high,low,7,namesilo,,,24/09/2026 12:10
 6f931305-2faf-4d6c-9a17-3c672b8a9dc7,bondable.football,available,19.99,37.99,medium,low,8,name.com,,,09/08/2026 23:59
 bb897b7d-4986-48b3-8a64-65b7bd143d65,mcintosh.football,available,25.99,25.99,high,low,8,namesilo,,,27/09/2026 04:44
@@ -226,7 +233,7 @@ a0c54cb7-2cd6-4adc-8f3b-4e3f3afbda18,melancholy.football,available,26.98,36.98,h
 f7c1e925-9a97-4fb2-8a1e-ee5d1b6d4a3a,neuromotor.football,available,25.99,25.99,medium,low,10,namesilo,,,03/09/2026 16:18
 1e3f6cb4-5531-4578-9de5-017f9c11ad16,skull.football,available,26.98,36.98,high,low,5,namecheap,,,26/09/2026 00:19
 bc352d51-26ce-41c9-9694-5c1a78bbef56,bolshie.football,available,19.99,37.99,medium,low,7,name.com,,,10/08/2026 17:55
-06631bb7-469d-4baa-b0b5-a2a3979a4233,thunder.football,available,19.99,,high,low,7,name.com,,,
+06631bb7-469d-4baa-b0b5-a2a3979a4233,thunder.football,available,10.81,21.11,high,low,7,porkbun,,,27/09/2026 15:41
 e9254534-0ad9-47e7-ae26-28535b9db057,weights.football,available,19.99,,medium,low,7,name.com,,,
 8194a1b0-b9e8-4eb0-b452-f312d06fa97c,end.football,premium,128.7,128.7,high,low,3,namecheap,,,19/09/2026 15:33
 2de65d46-64ef-453a-8704-097e19d343bb,aspis.football,available,25.99,25.99,medium,low,5,namesilo,,,20/09/2026 15:24
@@ -236,10 +243,10 @@ caf041b1-17bc-49bc-aefe-37237c930550,bounty.football,available,25.99,25.99,high,
 5a6952a2-4269-4eb7-846a-813aa0d1a592,sit.football,available,19.99,,high,low,3,name.com,,,
 a37e147b-0ba3-4391-b13f-402f649050d5,onset.football,available,25.99,25.99,high,low,5,namesilo,,,04/09/2026 14:29
 e225f035-d7af-46e6-bdc6-4638d19decb0,texting.football,available,25.99,25.99,high,low,7,namesilo,,,17/09/2026 10:22
-5dfda3cf-ba90-4ebc-8026-033adba0b801,katabatic.football,available,19.99,37.99,high,low,9,name.com,,,11/08/2026 20:41
+5dfda3cf-ba90-4ebc-8026-033adba0b801,katabatic.football,available,19.99,37.99,medium,low,9,name.com,,,11/08/2026 20:41
 3bb96980-43bb-4c5e-b30f-eb480fdddbc5,premise.football,available,25.99,25.99,high,low,7,namesilo,,,20/09/2026 16:37
 d74451ac-45a1-4598-97c0-b9d0dc485a2e,mandarin.football,available,25.99,25.99,high,low,8,namesilo,,,23/09/2026 04:17
-402c535d-b0e4-4a57-bb6d-5e874fe7ba6b,sakharov.football,available,25.99,25.99,high,low,8,namesilo,,,19/09/2026 04:30
+402c535d-b0e4-4a57-bb6d-5e874fe7ba6b,sakharov.football,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 04:30
 45c1d0c8-5f09-4d29-a4f6-e9142667b74e,inhouse.football,available,19.99,,high,low,8,name.com,,,
 cb2a60d1-1947-4263-8720-b7c473a333a3,structured.football,available,25.99,25.99,high,low,10,namesilo,,,10/09/2026 22:50
 2ad3a4cd-0b64-454c-aafb-28fbcec7f676,hani.football,available,25.99,25.99,high,low,4,namesilo,,,17/09/2026 23:54
@@ -260,16 +267,16 @@ c9235c23-5703-4675-a743-1f22828d52ac,distracted.football,available,19.99,37.99,m
 65023258-5cef-4d06-9cef-d7cd3aa8be5c,wittily.football,available,26.98,36.98,medium,low,7,namecheap,,,16/09/2026 11:35
 c4dacfc7-b950-41cf-9e9e-49b374e5d308,finer.football,available,19.99,37.99,high,low,5,name.com,,,18/08/2026 04:49
 74c2c435-9c09-4053-9838-12a7ade8887b,compilation.football,available,19.99,,high,low,11,name.com,,,
-d9bc8469-9eab-44c2-a34f-db1c3a96da06,twit.football,available,25.99,25.99,high,low,4,namesilo,,,11/09/2026 09:11
+d9bc8469-9eab-44c2-a34f-db1c3a96da06,twit.football,available,25.99,25.99,medium,low,4,namesilo,,,11/09/2026 09:11
 b8281a1f-9fe8-46e1-95a5-ce59587609c8,heroes.football,available,25.99,25.99,high,low,6,namesilo,,,17/09/2026 22:48
 1dca319c-aa1d-4638-a39b-28cc92912e5e,paz.football,available,25.99,25.99,high,low,3,namesilo,,,25/09/2026 14:05
-142d6e32-2476-42dc-bbbe-955d0c32a3e1,declarer.football,available,25.99,25.99,high,low,8,namesilo,,,17/09/2026 14:33
+142d6e32-2476-42dc-bbbe-955d0c32a3e1,declarer.football,available,25.99,25.99,medium,low,8,namesilo,,,17/09/2026 14:33
 3429eab9-40ed-4029-b5cb-a502b64e3a2b,freelancer.football,available,19.99,37.99,high,low,10,name.com,,,18/08/2026 14:38
 5c3882c7-d11a-4e4f-8914-f48b3fcbe03f,stepping.football,available,25.99,25.99,high,low,8,namesilo,,,16/09/2026 15:33
 5d6395f6-d70e-427c-9a62-9b9979428cad,whimsey.football,available,25.99,25.99,medium,low,7,namesilo,,,20/09/2026 00:43
 0342a6de-36f7-4890-991d-d86e09d02e5a,affective.football,available,19.99,37.99,high,low,9,name.com,,,
 b8b2eb70-c887-4d2b-8bc2-9406682b801c,macon.football,available,26.98,36.98,high,low,5,namecheap,,,27/09/2026 04:39
-cb02fadc-41a4-4524-8fee-cecd7d74e2ca,majesty.football,available,25.99,25.99,high,low,7,namesilo,,,27/09/2026 04:40
+cb02fadc-41a4-4524-8fee-cecd7d74e2ca,majesty.football,available,25.99,25.99,medium,low,7,namesilo,,,27/09/2026 04:40
 efe08c46-99ff-4167-9973-0517b9ded6cc,novice.football,available,25.99,25.99,high,low,6,namesilo,,,23/09/2026 02:23
 56636bc7-581f-4ce8-bce3-c03913fd1d9e,dogging.football,available,19.99,37.99,medium,low,7,name.com,,,14/08/2026 15:03
 8e998ce5-2975-44e2-8755-2894417b2441,legibility.football,available,26.98,36.98,high,low,10,namecheap,,,24/09/2026 22:31
@@ -287,7 +294,7 @@ a59389f1-7dbd-4ad6-9a68-209fe99dabc7,hesperian.football,available,19.99,37.99,me
 caaa05ca-a657-46f0-8c0c-43591fe2a400,sciences.football,available,19.99,,medium,low,8,name.com,,,
 2d491e66-10c7-435d-a9f8-b84e069b1af1,industrial.football,available,25.99,25.99,high,low,10,namesilo,,,25/09/2026 09:22
 adad9821-e524-4e86-a837-7657a4b76c55,untested.football,available,26.98,36.98,medium,low,8,namecheap,,,12/09/2026 21:13
-78c1bbf1-3009-4f72-a8fb-48c66c5509a7,zealot.football,available,25.99,25.99,high,low,6,namesilo,,,08/09/2026 02:10
+78c1bbf1-3009-4f72-a8fb-48c66c5509a7,zealot.football,available,25.99,25.99,medium,low,6,namesilo,,,08/09/2026 02:10
 b2d601f5-21f4-4b17-946c-12919bbb96c7,pasang.football,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 12:24
 319a7255-ed7b-45b5-abfe-522a73649cb8,violent.football,available,25.99,25.99,high,low,7,namesilo,,,11/09/2026 09:46
 8cb1f673-d38c-44d3-814e-eb06c75874d1,laxly.football,available,19.99,37.99,low,low,5,name.com,,,15/09/2026 11:08
@@ -297,19 +304,20 @@ a1e0f717-cac6-428f-ad83-818bc5fe4202,hecht.football,available,25.99,25.99,high,l
 40761d34-ec6c-46ca-86af-0140f8d3f4c0,spotlessly.football,available,25.99,25.99,medium,low,10,namesilo,,,16/09/2026 06:37
 dcb81820-a262-496c-a8ba-ecb3d979d25e,beefeater.football,available,25.99,25.99,medium,low,9,namesilo,,,23/09/2026 01:09
 6132c673-04b4-4aa3-b472-2a217ffe7037,pepper.football,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 01:22
-0c06fcb6-c864-41e6-add6-9651dcb76390,hairless.football,available,19.99,37.99,high,low,8,name.com,,,20/08/2026 22:13
+0c06fcb6-c864-41e6-add6-9651dcb76390,hairless.football,available,19.99,37.99,medium,low,8,name.com,,,20/08/2026 22:13
 c845c15d-865e-47e8-80e0-4ff61ef94ff6,gilbert.football,available,19.99,37.99,high,low,7,name.com,,,18/08/2026 23:22
 f2a1b245-7478-469b-90cc-6d396f4d34d2,antitrade.football,available,26.98,36.98,medium,low,9,namecheap,,,19/09/2026 15:13
 d6f52e88-41e0-4db4-a466-8babd8c00391,emanuel.football,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 14:33
 bc70d936-8562-41be-9d0d-a5f629ab511c,almoner.football,available,25.99,25.99,medium,low,7,namesilo,,,18/09/2026 12:40
 716ae417-6de3-4978-8228-eb2ea4153be7,exalted.football,available,19.99,37.99,high,low,7,name.com,,,17/08/2026 15:38
-1b852567-6fad-4c0b-9da1-5f2c326024b3,righteous.football,available,19.99,,high,low,9,name.com,,,
+1b852567-6fad-4c0b-9da1-5f2c326024b3,righteous.football,available,20.9,20.9,high,low,9,spaceship,,,27/09/2026 15:12
 9b38fba5-5728-46b4-9daa-74f8cb80e9f1,translation.football,available,19.99,,high,low,11,name.com,,,
 7f39392d-9cc7-445e-9777-d221ef8cec44,wonderfully.football,available,19.99,,high,low,11,name.com,,,
-84a32fcf-3299-4a90-90ec-1ed517157d90,pangolin.football,available,25.99,25.99,high,low,8,namesilo,,,19/09/2026 12:39
+84a32fcf-3299-4a90-90ec-1ed517157d90,pangolin.football,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 12:39
 f4bb97d8-b3a5-4614-b47f-f6b87df5ef16,troika.football,available,19.99,37.99,high,low,6,name.com,,,
 1c0bac7f-4fb0-4cbe-93db-042720a8c57a,amendment.football,available,26.98,36.98,high,low,9,namecheap,,,18/09/2026 18:38
 59792aab-a1f8-4904-bbb7-3860e326d788,discrete.football,available,19.99,37.99,high,low,8,name.com,,,14/08/2026 10:02
+94870f36-4feb-4735-8fdd-84a2bbab0c4b,zack.football,available,20.2,20.2,high,low,4,cloudflare,,,27/09/2026 18:11
 e7da8333-ae69-4923-9898-c30d2a0d669a,dourly.football,available,25.99,25.99,low,low,6,namesilo,,,14/09/2026 13:56
 20f1c745-6964-4371-95c2-8475bbc19514,variations.football,available,26.98,36.98,medium,low,10,namecheap,,,18/09/2026 20:13
 dd0da26b-c627-4242-90c4-9f74f4430b96,power.football,available,,,high,medium,5,,,,
@@ -322,7 +330,7 @@ e5cd150e-bf30-423f-ad5c-cb421add3864,allotted.football,available,19.99,37.99,hig
 87bd1a39-1513-4eb1-be10-39e504391fff,gallantly.football,available,25.99,25.99,medium,low,9,namesilo,,,14/09/2026 06:45
 6e91b940-d2e5-4cc8-a830-9a5627d3c432,avail.football,available,25.99,25.99,high,low,5,namesilo,,,21/09/2026 08:37
 b187889b-c12f-4362-bf56-a55ca7c0f33f,weapon.football,available,25.99,25.99,high,low,6,namesilo,,,25/09/2026 10:57
-ea4d6c61-d8f7-42b6-bd03-ba19ebaa9a22,backband.football,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 14:57
+ea4d6c61-d8f7-42b6-bd03-ba19ebaa9a22,backband.football,available,25.99,25.99,medium,low,8,namesilo,,,21/09/2026 14:57
 d2150c3f-9393-436f-b59a-9f9c62472361,duplex.football,available,19.99,37.99,high,low,6,name.com,,,14/08/2026 21:23
 9befe699-cd56-49af-8db0-8d42161be4eb,choosey.football,available,19.99,37.99,medium,low,7,name.com,,,12/08/2026 06:55
 9252eda7-b520-434c-9dfc-7b7781a9479f,rigil.football,available,25.99,25.99,medium,low,5,namesilo,,,18/09/2026 13:35
@@ -337,7 +345,7 @@ b973f0df-e6e0-4b51-b587-3a2c4e328a4b,spurious.football,available,19.99,37.99,med
 f9f01d8b-342f-4523-b1be-116a008e81a3,near.football,available,25.99,25.99,high,low,4,namesilo,,,23/09/2026 13:54
 689036f8-8ac1-484a-8bc2-e8babaf9c32f,specifically.football,available,25.99,25.99,high,low,12,namesilo,,,26/09/2026 00:54
 09cdc7f7-9bbd-40f3-a6f2-fc7312ebcd78,switch.football,available,,,high,medium,6,,,,
-d6630b10-4d52-4a08-946b-31a36854ecf2,slay.football,available,25.99,25.99,high,low,4,namesilo,,,04/09/2026 00:55
+d6630b10-4d52-4a08-946b-31a36854ecf2,slay.football,available,25.99,25.99,medium,low,4,namesilo,,,04/09/2026 00:55
 bc1644c3-a9cd-47b6-81e0-97fef0783857,skag.football,available,25.99,25.99,medium,low,4,namesilo,,,23/09/2026 14:39
 acaa5764-18f2-4895-80b7-8b1303c15261,dupe.football,available,19.99,37.99,high,low,4,name.com,,,12/08/2026 15:10
 fcebfc69-0e40-41d5-9388-7b2ce2fa798d,outright.football,available,25.99,25.99,high,low,8,namesilo,,,04/09/2026 19:35
@@ -364,7 +372,7 @@ d0a39817-926d-4d8a-a1c6-09915cf29b5f,dartmouth.football,premium,118.8,118.8,medi
 69cbb019-1d0c-4ca7-9494-581c72c48ec6,barren.football,available,19.99,37.99,medium,low,6,name.com,,,08/08/2026 20:57
 d526148d-7f22-44e1-b33f-6af1f31917cb,embodiment.football,available,25.99,25.99,high,low,10,namesilo,,,21/09/2026 08:48
 8390587b-983f-4e53-9567-d915fc0ef1fd,pictorials.football,available,26.98,36.98,medium,low,10,namecheap,,,20/09/2026 12:53
-c1e51301-c4a6-4a57-8442-cc1266db9506,costumed.football,available,19.99,37.99,high,low,8,name.com,,,13/08/2026 03:18
+c1e51301-c4a6-4a57-8442-cc1266db9506,costumed.football,available,19.99,37.99,medium,low,8,name.com,,,13/08/2026 03:18
 eb0425d0-750c-4146-be68-682dbe664e0a,mistake.football,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 05:40
 f5ce7b42-c423-4e00-85dd-6ec91110780c,dominoes.football,available,25.99,25.99,high,low,8,namesilo,,,24/09/2026 23:28
 e7ef2b3b-e31c-4c48-85cf-dca67e1e058c,cafeteria.football,available,25.99,25.99,high,low,9,namesilo,,,24/09/2026 11:37
@@ -388,11 +396,12 @@ e2411ca7-3eab-4fe9-a9dc-d68392e387c9,churlish.football,available,19.99,37.99,med
 81fa488f-1c9e-4266-88c2-1a1fb6e93e2d,hangdog.football,available,19.99,37.99,medium,low,7,name.com,,,20/08/2026 23:41
 bd9905a3-4496-4157-bb5b-004d1116da8c,unstable.football,available,19.99,37.99,high,low,8,name.com,,,18/08/2026 09:17
 b0adc8a1-2f3b-490d-87a8-9e6162f08594,introductions.football,available,25.99,25.99,medium,low,13,namesilo,,,20/09/2026 22:09
-1599f30c-e859-45ed-98f2-36f783e27000,oncoming.football,available,25.99,25.99,high,low,8,namesilo,,,04/09/2026 14:27
+1599f30c-e859-45ed-98f2-36f783e27000,oncoming.football,available,25.99,25.99,medium,low,8,namesilo,,,04/09/2026 14:27
 e2560cc9-dae9-49d3-b9f5-598630fb7ed9,delegate.football,available,26.98,36.98,high,low,8,namecheap,,,24/09/2026 21:30
 b295d851-8dff-463b-a4c1-be7fc6651e13,amberjack.football,available,25.99,25.99,medium,low,9,namesilo,,,18/09/2026 16:35
 5497e03e-ad21-4447-923d-877e720a4c03,tyler.football,available,25.99,25.99,high,medium,5,namesilo,,,25/09/2026 08:02
 c9a04a51-bfbe-4df4-9847-e0cfd1f00384,billy.football,available,25.99,25.99,high,low,5,namesilo,,,23/09/2026 16:44
+506d3284-6f63-4e81-a969-3d68fb3273d1,murdoch.football,available,20.2,20.2,medium,low,7,cloudflare,,,28/09/2026 01:45
 d610537f-9e4d-481d-be40-f17fc4f47cf4,manual.football,available,25.99,25.99,high,low,6,namesilo,,,25/09/2026 16:42
 c2d2eb5a-23ce-47d3-8ea0-30da16bf483a,stateless.football,available,19.99,37.99,medium,low,9,name.com,,,21/08/2026 11:01
 ee53ffc1-7ab2-4ce9-b7d6-a175e0e786e1,goldfish.football,available,25.99,25.99,high,low,8,namesilo,,,24/09/2026 12:44
@@ -405,7 +414,7 @@ b0163341-2658-47bb-bd68-7bc81ef7e22a,baritone.football,available,19.99,37.99,med
 2a6af09b-f1ca-41f7-bd8d-98d96eb769e8,wilful.football,available,19.99,37.99,medium,low,6,name.com,,,18/08/2026 16:39
 243b4dbb-2dd3-48c3-b3e9-1cef3ff82fdc,exposed.football,available,19.99,37.99,high,low,7,name.com,,,17/08/2026 18:37
 48b6cedc-d2a3-4b5e-98d4-e10fe4348581,clog.football,available,25.99,25.99,high,low,4,namesilo,,,24/09/2026 15:50
-8fdf2807-9c11-4358-be69-535db638fc10,vomiting.football,available,19.99,,high,low,8,name.com,,,
+8fdf2807-9c11-4358-be69-535db638fc10,vomiting.football,available,19.99,,medium,low,8,name.com,,,
 9587b519-5f66-497a-b49e-55dd69fb6727,trackable.football,available,19.99,37.99,high,low,9,name.com,,,11/09/2026 18:37
 17f5ba52-f191-4e3f-b0dd-e84688c6e8be,spaciously.football,available,25.99,25.99,medium,low,10,namesilo,,,16/09/2026 00:04
 29200878-7fdd-4e6b-9b5e-aad7ab0ea18e,review.football,available,19.99,,high,medium,6,name.com,,,
@@ -433,12 +442,12 @@ de9ab28f-bf4c-4c89-8e96-6d500fc23cc0,wailing.football,available,19.99,37.99,medi
 774c9fb5-2dc1-4f01-92e8-fa5983a2b762,dealing.football,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 04:50
 f2308da8-dabc-47f9-ae7a-b584d511faef,concert.football,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 03:04
 ab2658b4-4ff8-4d6b-b815-5c5077618081,coherent.football,available,19.99,37.99,high,low,8,name.com,,,12/08/2026 16:00
-28f66788-f3fb-4b18-bc95-74742356a342,felon.football,available,19.99,37.99,high,low,5,name.com,,,13/08/2026 06:25
+28f66788-f3fb-4b18-bc95-74742356a342,felon.football,available,19.99,37.99,medium,low,5,name.com,,,13/08/2026 06:25
 a173eeaa-84a5-445b-ae19-7b3cd25dbd7f,topping.football,available,25.99,25.99,high,low,7,namesilo,,,11/09/2026 17:36
 b43ec676-1723-4e7d-9112-346f72875d74,everbody.football,available,19.99,,medium,low,8,name.com,,,
 75a92284-b2cf-4ae3-ba75-943581359477,turgid.football,available,19.99,37.99,medium,low,6,name.com,,,10/08/2026 18:07
 eb4f42fd-7e30-42dd-ab46-c70639d0c4fa,sagely.football,available,25.99,25.99,medium,low,6,namesilo,,,16/09/2026 00:31
-eb164f23-2d5d-494b-b61a-03b74c712015,bottles.football,available,25.99,25.99,high,low,7,namesilo,,,18/09/2026 04:05
+eb164f23-2d5d-494b-b61a-03b74c712015,bottles.football,available,25.99,25.99,medium,low,7,namesilo,,,18/09/2026 04:05
 cc607f20-4740-4c81-b840-b2b9bf4d9525,grayish.football,available,19.99,37.99,medium,low,7,name.com,,,20/08/2026 18:56
 cf79f2e0-8cce-4d2a-90f7-534d518b63c0,uninvited.football,available,25.99,25.99,medium,low,9,namesilo,,,12/09/2026 13:33
 4e064563-05a9-440d-bb4b-ec6cc67020de,witness.football,available,26.98,36.98,high,low,7,namecheap,,,21/09/2026 01:35
@@ -447,7 +456,7 @@ cff26d1c-4eb6-44a8-81ae-28d29e80bd4c,rewardful.football,available,25.99,25.99,me
 bbf196d3-44e4-4c0d-af29-976c065f3508,backstop.football,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 16:06
 e6cd8565-318e-4dc0-ba3c-158a6d195694,arpent.football,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 08:38
 c2234050-3fcf-4ccb-b7dc-5db1e8ea311f,ankylosaur.football,available,25.99,25.99,medium,low,10,namesilo,,,19/09/2026 09:52
-0f48fe2e-e1aa-4e65-a905-4b6d5bb5b0ff,yelled.football,available,19.99,,high,low,6,name.com,,,
+0f48fe2e-e1aa-4e65-a905-4b6d5bb5b0ff,yelled.football,available,10.92,21.62,high,low,6,dynadot,,,27/09/2026 21:26
 05522907-6775-443c-868e-7dd1f5b1ba8a,breaker.football,available,25.99,25.99,high,low,7,namesilo,,,24/09/2026 08:24
 bbfa95db-c103-4525-8cdc-e0dd47469007,empty.football,available,25.99,25.99,high,low,5,namesilo,,,24/09/2026 13:56
 3e7916c1-c107-47f9-aa08-48efff81f487,quaintly.football,available,25.99,25.99,medium,low,8,namesilo,,,15/09/2026 22:07
@@ -478,7 +487,7 @@ d599b1fa-dd79-4f43-9c48-5b0f0a6988d8,saint.football,available,25.99,25.99,high,l
 624bf66e-6050-4094-83dc-41a257462aea,katz.football,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 15:43
 5490a72b-e4fb-4a3d-a9fe-d030082f042c,uncured.football,available,25.99,25.99,medium,low,7,namesilo,,,12/09/2026 06:39
 d4c237b1-3d30-483c-bd02-864589a1c6f9,penitent.football,available,25.99,25.99,medium,low,8,namesilo,,,08/09/2026 14:30
-dda82d53-1861-4bfc-985c-2703fa3c0cb4,discontent.football,available,19.99,37.99,high,low,10,name.com,,,14/08/2026 09:59
+dda82d53-1861-4bfc-985c-2703fa3c0cb4,discontent.football,available,19.99,37.99,medium,low,10,name.com,,,14/08/2026 09:59
 f3f06efc-4ca3-4ede-897f-093171fbf9cc,basket.football,available,19.99,,high,low,6,name.com,,,
 9c2cd7e3-94a9-4d15-a221-dc5ab5c5eec3,springy.football,available,19.99,37.99,high,low,7,name.com,,,10/08/2026 21:49
 73668dac-6fdb-4264-baad-51513fbc82a0,transonic.football,available,25.99,25.99,medium,low,9,namesilo,,,10/09/2026 14:11
@@ -488,7 +497,7 @@ f3f06efc-4ca3-4ede-897f-093171fbf9cc,basket.football,available,19.99,,high,low,6
 9b54b526-b1a4-43ed-9fa3-7995c9fc35dd,luxurious.football,available,19.99,37.99,high,low,9,name.com,,,14/08/2026 00:57
 c2beb487-0482-40dd-98a0-a41edebf8538,quash.football,available,25.99,25.99,medium,low,5,namesilo,,,13/09/2026 06:42
 75312629-08a3-4b91-843e-f987207d6626,aster.football,available,26.98,36.98,high,low,5,namecheap,,,20/09/2026 16:56
-737f9e78-9139-4b3e-972a-fc6a0f1e58e2,sufficient.football,available,19.99,,high,low,10,name.com,,,
+737f9e78-9139-4b3e-972a-fc6a0f1e58e2,sufficient.football,available,10.92,21.62,high,low,10,dynadot,,,28/09/2026 01:52
 1450b89c-4c21-422a-92ee-f50a632df49e,song.football,available,19.99,,high,low,4,name.com,,,
 0cefaaa7-6374-41e5-ad3b-a851de3e0101,impediment.football,available,19.99,37.99,medium,low,10,name.com,,,14/08/2026 04:53
 50b72d19-c66e-4515-9ac2-49d728a4daa3,forego.football,available,19.99,37.99,high,low,6,name.com,,,18/08/2026 11:52
@@ -498,9 +507,9 @@ a3b5b30a-98f2-442a-bf20-e77b81f04958,confetti.football,available,19.99,,high,low
 f55e4d1b-9205-4f60-956c-a998d175f8e6,filiform.football,available,19.99,37.99,medium,low,8,name.com,,,18/08/2026 04:04
 87c9b11d-44c8-462e-9e29-1f1e0555a082,astounding.football,available,25.99,25.99,high,low,10,namesilo,,,22/09/2026 10:29
 f243a1ca-8ed1-49e7-833c-d8ba1a625d46,before.football,available,25.99,25.99,high,low,6,namesilo,,,21/09/2026 23:34
-fbd937f5-3b1c-49b1-837f-140963a4f9cb,appall.football,available,25.99,25.99,high,low,6,namesilo,,,18/09/2026 01:55
+fbd937f5-3b1c-49b1-837f-140963a4f9cb,appall.football,available,25.99,25.99,medium,low,6,namesilo,,,18/09/2026 01:55
 1f31bab4-15f6-4e85-b944-024b30c2bb74,mackay.football,available,25.99,25.99,medium,low,6,namesilo,,,25/09/2026 16:20
-b921c9e2-a27e-49ea-8070-b95460fa7edf,isothermal.football,available,19.99,37.99,high,low,10,name.com,,,22/08/2026 11:22
+b921c9e2-a27e-49ea-8070-b95460fa7edf,isothermal.football,available,19.99,37.99,medium,low,10,name.com,,,22/08/2026 11:22
 081a22ef-a3e8-4861-ae0c-60a81bdaf867,cellini.football,available,25.99,25.99,medium,low,7,namesilo,,,23/09/2026 08:47
 63abbc0e-e817-4f1d-adb8-85921a2b15f1,des.football,available,19.99,,high,low,3,name.com,,,
 a202494d-5dfd-4812-9b10-26d4f5113305,inventor.football,available,25.99,25.99,high,low,8,namesilo,,,20/09/2026 11:36
@@ -516,13 +525,15 @@ a7e6084e-a04c-412c-94ce-933712429cfc,stabilization.football,available,25.99,25.9
 6b0c7e43-54dc-46ba-8090-3d3f46c822d0,pen.football,available,25.99,25.99,high,low,3,namesilo,,,27/09/2026 03:22
 88e29fbb-a57d-4cdf-beb0-64e3c6b27ade,songster.football,available,26.98,36.98,medium,low,8,namecheap,,,21/09/2026 22:38
 0cc4ec22-6adc-43fa-a9a0-81b3dbc2cb1c,pink.football,available,25.99,25.99,high,low,4,namesilo,,,27/09/2026 03:47
-5fe5de16-0636-4d81-9af9-66256e1af44f,abenaki.football,available,19.99,37.99,high,low,7,name.com,,,
+5023f81f-7965-4602-8857-5a48ca8fc9d7,brandenburg.football,available,20.9,20.9,high,low,11,spaceship,,,27/09/2026 16:50
+5fe5de16-0636-4d81-9af9-66256e1af44f,abenaki.football,available,19.99,37.99,medium,low,7,name.com,,,
 e30dfd45-cb6c-40d8-ae33-2fddde1f346b,cents.football,available,26.98,36.98,medium,low,5,namecheap,,,18/09/2026 18:36
 6a18aa47-d5c4-4478-b787-0f96badb485e,capsule.football,available,19.99,37.99,high,low,7,name.com,,,11/08/2026 18:13
 85d25c88-db40-4ee2-8259-f9b380d7cce3,misty.football,available,19.99,37.99,high,low,5,name.com,,,11/08/2026 06:51
 167f9319-73c9-4698-80a3-2aedb4b90c53,blackcock.football,available,25.99,25.99,medium,low,9,namesilo,,,24/09/2026 00:30
 56d992a0-e076-4ae0-bfcb-6a3be5f4d940,bureaucrat.football,available,26.98,36.98,high,low,10,namecheap,,,17/09/2026 08:44
 6991ca2f-3ea3-4576-a73c-8e9f827240a3,fatso.football,available,19.99,37.99,medium,low,5,name.com,,,17/08/2026 23:54
+a815fece-c49d-4d65-9831-af842dd9cf33,shenandoah.football,available,10.92,21.62,medium,low,10,dynadot,,,27/09/2026 21:14
 01bbb818-bac7-40bd-bec1-9488d5c6ddcd,tangle.football,available,25.99,25.99,high,low,6,namesilo,,,25/09/2026 17:42
 686b710c-7edc-476a-8376-b1fe14cbcd59,intuitive.football,available,19.99,37.99,high,low,9,name.com,,,22/08/2026 08:51
 fea8ded6-1dcc-4df2-94bf-2929f1cf48ad,gracile.football,available,19.99,37.99,medium,low,7,name.com,,,20/08/2026 17:29
@@ -546,6 +557,7 @@ fbf6e1eb-2302-44bd-bf24-0f1bdcb7f10b,looker.football,available,19.99,37.99,high,
 8198dd2f-5116-4794-9c7c-53c065283d9d,swell.football,available,19.99,37.99,high,low,5,name.com,,,08/08/2026 12:50
 7a648368-9328-49f7-adee-0364bf17691d,axenic.football,available,19.99,37.99,medium,low,6,name.com,,,08/08/2026 01:51
 820cf59d-ede8-4739-9cd7-137dd6f3db46,airworthy.football,available,19.99,37.99,medium,low,9,name.com,,,
+f0b5542e-17bf-49ab-b885-27a46dca2e6d,winthrop.football,available,10.81,21.11,high,low,8,porkbun,,,27/09/2026 19:50
 7d11818f-fa63-4f37-b5e3-e07e9c65da46,anklebone.football,available,25.99,25.99,medium,low,9,namesilo,,,19/09/2026 09:43
 c233df6c-213e-4371-b2b4-1d380da4064f,essence.football,available,25.99,25.99,high,low,7,namesilo,,,25/09/2026 03:33
 b5d2717f-6ba0-4486-b709-32920dc01113,wrongful.football,available,19.99,,medium,low,8,name.com,,,
@@ -558,13 +570,13 @@ c8596068-cb53-4067-9a22-caefa505f4dc,corporal.football,available,19.99,37.99,hig
 7358693f-9a98-4bfb-b729-a6e312d937be,accentor.football,available,25.99,25.99,medium,low,8,namesilo,,,16/09/2026 21:58
 5b872e4c-f6d5-48c5-a51e-1683eff93a98,univocal.football,available,25.99,25.99,medium,low,8,namesilo,,,12/09/2026 09:15
 290b03fb-ade8-4aab-9b3f-fe8e26a6ca52,economically.football,available,19.99,,medium,low,12,name.com,,,
-0fa4597d-382a-48fe-b119-97dd4a96f44b,agony.football,available,25.99,25.99,high,low,5,namesilo,,,11/09/2026 01:10
+0fa4597d-382a-48fe-b119-97dd4a96f44b,agony.football,available,25.99,25.99,medium,low,5,namesilo,,,11/09/2026 01:10
 d6745dba-fc62-410c-8b6c-175b506f899a,bsarch.football,available,25.99,25.99,medium,low,6,namesilo,,,21/09/2026 14:16
 7232ae52-d2f4-4280-868a-fac4caf65b95,asmera.football,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 14:30
 0782dcdd-1f41-41e9-b164-52502c855e50,waggish.football,available,19.99,37.99,medium,low,7,name.com,,,13/09/2026 07:38
 b614ddd3-8b7a-480c-9dd9-2e24b2a3f39a,azimuth.football,available,26.98,36.98,high,low,7,namecheap,,,21/09/2026 10:54
 9a91e5f1-060f-4ef0-9454-a2c439afddca,fateful.football,available,19.99,37.99,medium,low,7,name.com,,,11/08/2026 13:32
-0bfd9cef-e582-410e-8cfb-f935bc1aa4cf,swing.football,available,19.99,,high,low,5,name.com,,,
+0bfd9cef-e582-410e-8cfb-f935bc1aa4cf,swing.football,available,20.9,20.9,high,low,5,spaceship,,,28/09/2026 02:11
 8a5da54a-4006-4acd-9f3f-4b9a9cca0f71,allure.football,available,25.99,25.99,high,low,6,namesilo,,,18/09/2026 12:11
 e2225652-3b52-4eba-8774-45e78145d560,brunch.football,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 10:54
 a8a6f83a-452d-41a5-8853-0aeb1482e1f6,lxxxiv.football,available,19.99,37.99,medium,low,6,name.com,,,
@@ -576,7 +588,7 @@ fd5a1202-9676-4acd-ba53-e75a2ac822e4,bikini.football,available,25.99,25.99,high,
 1f1834f9-bf4e-421f-b156-3837e263d118,trousers.football,available,19.99,,high,low,8,name.com,,,
 6bd111a6-25a3-43d8-b457-08801c78f8a9,haywire.football,available,19.99,37.99,medium,low,7,name.com,,,
 b3477523-f775-410e-a578-332bff498ed5,mobs.football,available,26.98,36.98,medium,low,4,namecheap,,,18/09/2026 05:11
-0d798a57-c686-4c07-85be-1270a17eeb8a,catenate.football,available,19.99,37.99,high,low,8,name.com,,,11/08/2026 21:39
+0d798a57-c686-4c07-85be-1270a17eeb8a,catenate.football,available,19.99,37.99,medium,low,8,name.com,,,11/08/2026 21:39
 1739caf6-4320-4283-a9c6-405f526d75e3,bodacious.football,available,19.99,37.99,high,low,9,name.com,,,10/08/2026 16:42
 077e51a7-df56-4120-8efc-b2b1a6af02c6,executable.football,available,19.99,37.99,high,low,10,name.com,,,17/08/2026 16:50
 d6dab0f9-bc3c-4c18-8934-9fac250ddee2,postdoc.football,available,19.99,37.99,high,low,7,name.com,,,09/09/2026 00:19
@@ -591,7 +603,7 @@ d6dab0f9-bc3c-4c18-8934-9fac250ddee2,postdoc.football,available,19.99,37.99,high
 79de0074-718f-45a5-926a-900796c94d7d,annealing.football,available,25.99,25.99,high,low,9,namesilo,,,11/09/2026 10:58
 7fdc6266-68da-44ec-b797-6fa32e23179b,oriented.football,available,25.99,25.99,high,low,8,namesilo,,,26/09/2026 00:29
 7fe0d8fd-2a53-4c54-9318-f82ed8855cc7,abstemious.football,available,19.99,37.99,medium,low,10,name.com,,,
-7a80e602-5175-4504-b57a-b8c5dc09826c,unhindered.football,available,25.99,25.99,high,low,10,namesilo,,,12/09/2026 11:55
+7a80e602-5175-4504-b57a-b8c5dc09826c,unhindered.football,available,25.99,25.99,medium,low,10,namesilo,,,12/09/2026 11:55
 a79cd27c-05b4-4979-ab15-91e0d054a619,acromion.football,available,25.99,25.99,medium,low,8,namesilo,,,17/09/2026 03:49
 a262d9ee-8581-4410-b27c-48ec15ac1e89,boarded.football,available,19.99,,high,low,7,name.com,,,
 b554b6ca-be3e-45a3-98a2-4eb19ef4c627,makomako.football,available,25.99,25.99,medium,low,8,namesilo,,,20/09/2026 05:57
@@ -628,10 +640,10 @@ abefac29-f0ee-443d-925e-588bef6c6e79,ranch.football,available,26.98,36.98,high,l
 9efd558b-6042-4d98-8e45-7b8583ad5dbd,coast.football,available,19.99,,high,low,5,name.com,,,
 d672416c-829a-4ff0-a89c-77bdc14fe548,heartthrob.football,available,19.99,,high,low,10,name.com,,,
 abbcabc4-5b26-4450-bb6f-af28257d43c3,aglaia.football,available,26.98,36.98,medium,low,6,namecheap,,,17/09/2026 18:17
-a4b5bac2-5efc-4170-8798-39472a966f45,shaky.football,available,19.99,,medium,low,5,name.com,,,
+a4b5bac2-5efc-4170-8798-39472a966f45,shaky.football,available,20.9,20.9,medium,low,5,spaceship,,,27/09/2026 14:56
 1a8ba98f-4370-4a31-8cfa-80846f3bf4fd,connective.football,available,19.99,37.99,high,low,10,name.com,,,12/08/2026 22:16
 b1580ef0-7331-4310-a784-f3c8d86a8e51,horse.football,available,25.99,25.99,high,low,5,namesilo,,,24/09/2026 13:18
-e4c66a21-b18b-4ac6-8370-0e3ad073b46f,aptly.football,available,25.99,25.99,high,low,5,namesilo,,,13/09/2026 16:19
+e4c66a21-b18b-4ac6-8370-0e3ad073b46f,aptly.football,available,25.99,25.99,medium,low,5,namesilo,,,13/09/2026 16:19
 ac5aca97-3685-4bcf-a41c-d23b65c2d0f7,indigo.football,available,19.99,37.99,high,low,6,name.com,,,22/08/2026 03:01
 fc8d32b3-75ce-4ca0-84e4-f586a33ddc84,satisfy.football,available,19.99,,high,low,7,name.com,,,
 e932e7e2-ab1e-44ea-ba12-6429c813e233,separable.football,available,19.99,37.99,medium,low,9,name.com,,,14/08/2026 12:50
@@ -642,7 +654,7 @@ ad6a3aaf-9eb3-420e-a6df-7aead4f4ab93,held.football,available,19.99,37.99,high,lo
 48dc031d-ed8a-4081-8584-9e99a81e831e,broad.football,available,26.98,36.98,high,low,5,namecheap,,,19/09/2026 06:03
 89160a33-495a-4aac-a4a7-bb3f4735b866,cadastral.football,available,19.99,37.99,medium,low,9,name.com,,,11/08/2026 12:39
 6181fae7-cedc-40ef-8532-b1f2de12225c,woolf.football,available,25.99,25.99,medium,low,5,namesilo,,,17/09/2026 07:19
-5a7a6966-e48e-494d-8a40-a73e6a562b70,asterism.football,available,25.99,25.99,high,low,8,namesilo,,,20/09/2026 17:12
+5a7a6966-e48e-494d-8a40-a73e6a562b70,asterism.football,available,25.99,25.99,medium,low,8,namesilo,,,20/09/2026 17:12
 3923eefd-7d6b-460d-adb3-7518addd98c0,blaster.football,available,25.99,25.99,high,low,7,namesilo,,,24/09/2026 04:22
 b7fae72e-4196-4f9d-b13e-d0098c36c69d,anuran.football,available,19.99,37.99,medium,low,6,name.com,,,05/08/2026 20:48
 54704e6f-4bdf-4f6b-ba43-9e4546d9f3bf,underfoot.football,available,26.98,36.98,medium,low,9,namecheap,,,16/09/2026 09:56
@@ -651,8 +663,9 @@ b7fae72e-4196-4f9d-b13e-d0098c36c69d,anuran.football,available,19.99,37.99,mediu
 58ab3e1a-3d89-481e-9400-6c692e21a460,napkin.football,available,25.99,25.99,high,low,6,namesilo,,,03/09/2026 13:10
 27a79220-97e4-4277-ab7a-4a6381a5a1c5,heck.football,available,19.99,,high,low,4,name.com,,,
 235fbc67-c467-45ff-8f8b-1a791caaa978,diverting.football,available,19.99,37.99,medium,low,9,name.com,,,
-3571329f-5d30-48f0-8e40-1d7399472a4d,turnabout.football,available,19.99,,high,low,10,name.com,,,
+3571329f-5d30-48f0-8e40-1d7399472a4d,turnabout.football,available,19.99,,medium,low,10,name.com,,,
 9961fb96-80c5-432f-ad75-10742bd720ae,ishmael.football,available,26.98,36.98,high,low,7,namecheap,,,04/09/2026 19:10
+67244c4b-aed0-4b67-999a-750f41582b1c,memorial.football,available,20.2,20.2,high,low,8,cloudflare,,,27/09/2026 14:53
 550466f9-82fd-49ec-8f29-01ed07e429d8,time.football,premium,854,854,high,medium,4,namesilo,,,25/09/2026 04:14
 2e53b0a9-90f0-42c1-9597-4d140baec496,fabian.football,available,19.99,37.99,high,low,6,name.com,,,17/08/2026 20:10
 90fe4c63-09ec-46f6-b12f-1b4d2b7d80e9,bakeshop.football,available,26.98,36.98,high,low,8,namecheap,,,21/09/2026 20:10
@@ -672,7 +685,7 @@ d98b0c6e-39d9-403c-a0c9-4e3bc12d522b,theatrical.football,available,25.99,25.99,h
 616c342b-b060-4582-b280-1ac6b829706d,disparate.football,available,19.99,37.99,medium,low,9,name.com,,,14/08/2026 11:52
 6670456a-b30e-431f-adff-8157ebaefd32,apricot.football,available,25.99,25.99,high,low,7,namesilo,,,19/09/2026 22:31
 d075442c-530d-4d01-a47b-46d8ea23022c,camomile.football,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 13:02
-d481626c-3fa1-4576-8762-8386f6917eff,hassle.football,available,19.99,,high,low,6,name.com,,,
+d481626c-3fa1-4576-8762-8386f6917eff,hassle.football,available,19.99,37.99,high,low,6,name.com,,,27/09/2026 16:35
 a5b874d1-a314-4532-b922-e3e2dde05fd0,middling.football,available,19.99,37.99,medium,low,8,name.com,,,22/08/2026 13:46
 34aac81e-a62e-4570-915d-0e98fcf8c106,spirits.football,available,19.99,,high,low,7,name.com,,,
 ca4c6065-e8d4-49de-ba41-cbc89b1199b4,recognize.football,available,26.98,36.98,high,low,9,namecheap,,,27/09/2026 02:43
@@ -681,7 +694,7 @@ c5cb1df9-86e1-4860-928a-45bc1b53c5b2,perez.football,available,25.99,25.99,high,l
 21fe42df-fe81-414b-82c1-a2f308f09953,hastings.football,available,26.98,36.98,high,low,8,namecheap,,,22/09/2026 15:09
 a3c0f07a-1323-4416-b49f-ac2bbc577ae1,longlasting.football,available,19.99,,high,low,12,name.com,,,
 e08aa2f8-aa2f-49b5-9a7c-d61bb06dcd96,html.football,available,19.99,,high,low,4,name.com,,,
-3c7f2a53-6d47-43bb-b3d5-5e00541ff0d9,biogenetic.football,available,19.99,37.99,high,low,10,name.com,,,10/08/2026 01:12
+3c7f2a53-6d47-43bb-b3d5-5e00541ff0d9,biogenetic.football,available,19.99,37.99,medium,low,10,name.com,,,10/08/2026 01:12
 e4295240-b641-41a5-978b-c98e0b5b0202,fungible.football,available,19.99,37.99,medium,low,8,name.com,,,18/08/2026 18:32
 5ad56c98-8bd1-41d1-a328-1cd3b57f7b71,glossy.football,available,19.99,37.99,high,low,6,name.com,,,11/08/2026 14:10
 e17c30cd-e8f3-42ba-b18d-155b561400e8,homeward.football,available,19.99,37.99,high,low,8,name.com,,,21/08/2026 11:22
@@ -694,7 +707,7 @@ d928f409-731b-4ca6-a173-fc2dcf660ab3,foxily.football,available,25.99,25.99,mediu
 933cafab-118d-4825-a7e6-15d99fc23d16,successes.football,available,19.99,,medium,low,9,name.com,,,
 6e01b80e-1370-43b9-9de2-0a6afc49cb8a,badgering.football,available,25.99,25.99,medium,low,9,namesilo,,,13/09/2026 13:19
 7d56bcef-932e-4e0b-bba0-91d94f6117aa,irrational.football,available,25.99,25.99,high,low,10,namesilo,,,25/09/2026 11:23
-0ffff0b1-4899-4432-b0a6-1565208f545b,biotype.football,available,26.98,36.98,high,low,7,namecheap,,,23/09/2026 19:14
+0ffff0b1-4899-4432-b0a6-1565208f545b,biotype.football,available,26.98,36.98,medium,low,7,namecheap,,,23/09/2026 19:14
 5c774bb0-3891-478e-a929-2dadef514855,baku.football,available,26.98,36.98,high,low,4,namecheap,,,21/09/2026 20:24
 6030c647-e999-4189-812a-a4a2e145b6ba,lxxx.football,available,19.99,37.99,medium,low,4,name.com,,,
 912a393b-ad6d-453c-ae84-3d06ff5cbb39,alee.football,available,25.99,25.99,low,low,4,namesilo,,,13/09/2026 18:38
@@ -720,16 +733,17 @@ a1b4d766-7fc8-42e5-bdb1-a8c633fd4e1a,diddle.football,available,25.99,25.99,mediu
 6b37375a-3cc4-430d-99de-2f47044b0fcc,tilted.football,available,19.99,37.99,high,low,6,name.com,,,07/08/2026 13:29
 76a593f3-4b54-4dea-b996-0ca50e49bf6f,amenia.football,available,26.98,36.98,medium,low,6,namecheap,,,18/09/2026 18:47
 449e87ea-6ca7-4fac-aee1-6a607bb27f38,map.football,premium,128.7,128.7,high,medium,3,namecheap,,,
-744c7c40-dc05-41c9-ab30-856bd57457a9,actor.football,available,19.99,,high,low,5,name.com,,,
+744c7c40-dc05-41c9-ab30-856bd57457a9,actor.football,available,20.9,20.9,high,low,5,spaceship,,,28/09/2026 02:29
 cb232c72-461a-462d-b1ad-701639cbd844,formed.football,available,19.99,37.99,high,low,6,name.com,,,18/08/2026 12:09
 6e927d7d-49e4-4c34-a5d8-e6aa87c3e53f,magyar.football,available,19.99,37.99,high,low,6,name.com,,,21/08/2026 15:41
+02eb822c-34b7-4724-b770-a3214c5a2ff4,gravity.football,available,10.92,21.62,high,medium,7,dynadot,,,27/09/2026 13:53
 198d5e4b-2c43-443d-9bab-78e0019035a8,yid.football,available,25.99,25.99,medium,low,3,namesilo,,,19/09/2026 16:18
 77414e2c-d908-48e1-897f-a73e044e5df7,adenauer.football,available,25.99,25.99,medium,low,8,namesilo,,,17/09/2026 07:24
 3db8c6fc-ba56-4957-8e72-ab2df74a33c3,aperiodic.football,available,19.99,37.99,medium,low,9,name.com,,,05/08/2026 22:30
 8d0dd3a5-0718-4ad7-ae6b-bbb9f5c2785d,sedate.football,available,19.99,37.99,high,low,6,name.com,,,20/08/2026 18:40
 6ef7c723-e444-4ec2-bd55-06cf210c6441,unreliable.football,available,26.98,36.98,medium,low,10,namecheap,,,11/09/2026 19:06
 88851764-11d7-423d-bd26-a7bf093d753c,maid.football,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 16:10
-4b5e1766-fd70-4e1d-bbec-105438f069e1,toscanini.football,available,26.98,36.98,high,low,9,namecheap,,,20/09/2026 12:05
+4b5e1766-fd70-4e1d-bbec-105438f069e1,toscanini.football,available,26.98,36.98,medium,low,9,namecheap,,,20/09/2026 12:05
 917546ec-3ce1-44e9-a558-8c59f3336513,wigeon.football,available,26.98,36.98,medium,low,6,namecheap,,,19/09/2026 03:00
 235fbf94-46c6-447c-adc2-2046e47e1c77,updates.football,available,25.99,25.99,medium,low,7,namesilo,,,20/09/2026 08:39
 d247ba27-6673-4129-b407-35fc417394b4,provision.football,available,19.99,,high,low,9,name.com,,,
@@ -740,7 +754,7 @@ d7d3b228-c0ed-449a-81a4-f32902ce5b70,meshed.football,available,19.99,37.99,mediu
 7e39ab3b-cb76-422a-b6c6-2d81199b4883,smithsonian.football,available,25.99,25.99,high,low,11,namesilo,,,25/09/2026 12:40
 679023dc-eb95-498a-bbb4-1bac44055fd5,bait.football,available,25.99,25.99,high,low,4,namesilo,,,21/09/2026 19:42
 1016c274-3528-44fa-bc6e-761ec788bf13,cloisonne.football,available,19.99,37.99,medium,low,9,name.com,,,12/08/2026 01:39
-f5766611-854a-4718-9a4d-8649e0bdce88,akron.football,available,26.98,36.98,high,low,5,namecheap,,,18/09/2026 00:14
+f5766611-854a-4718-9a4d-8649e0bdce88,akron.football,available,26.98,36.98,medium,low,5,namecheap,,,18/09/2026 00:14
 82f163d5-125f-4faf-b21a-c5a3cdad10e5,invading.football,available,19.99,37.99,high,low,8,name.com,,,22/08/2026 02:12
 ffc42107-700b-47a3-b9bc-1a142cca125a,asphalt.football,available,25.99,25.99,high,low,7,namesilo,,,20/09/2026 15:08
 7aae0885-cbe7-44f0-b412-bec389b67bd9,atopy.football,available,26.98,36.98,medium,low,5,namecheap,,,21/09/2026 00:33
@@ -753,18 +767,18 @@ f5e11946-5b24-4b47-af97-56a66ee1504b,dennis.football,available,25.99,25.99,high,
 b90ef4ff-e4e5-45ef-bfda-4c2489e7bf04,accountant.football,available,25.99,25.99,high,low,10,namesilo,,,16/09/2026 23:11
 6c12cfa2-e243-4c22-a6c3-3a730d76228e,betelgeuse.football,available,25.99,25.99,medium,low,10,namesilo,,,18/09/2026 13:39
 691c832c-92e5-4ad1-a88b-b98660748e3b,newsworthy.football,available,25.99,25.99,high,low,10,namesilo,,,03/09/2026 16:53
-75a94c6b-3bfb-47ed-86fa-c4de4b402520,untold.football,available,25.99,25.99,high,low,6,namesilo,,,12/09/2026 21:37
+75a94c6b-3bfb-47ed-86fa-c4de4b402520,untold.football,available,25.99,25.99,medium,low,6,namesilo,,,12/09/2026 21:37
 d45dbda4-d895-4681-972f-ea238c259a40,archibald.football,available,25.99,25.99,medium,low,9,namesilo,,,25/09/2026 18:45
 409ad081-59cc-405a-b1af-6a6c3c466cad,swaggie.football,available,25.99,25.99,medium,low,7,namesilo,,,11/09/2026 05:03
 73f8fbf9-1d58-4bce-bb18-fc9841d4f12a,valuator.football,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 22:13
-c2238a5b-1fb4-49a3-b284-52ac56961b7f,triple.football,available,19.99,,high,low,6,name.com,,,
+c2238a5b-1fb4-49a3-b284-52ac56961b7f,triple.football,available,25.99,25.99,high,low,6,namesilo,,,28/09/2026 02:16
 2a1496ed-90f5-4bc2-a86a-4ef48a574de2,bookable.football,available,19.99,37.99,medium,low,8,name.com,,,10/08/2026 19:04
 ba025001-b3d3-4387-8203-deaebe3892bd,aphrodisia.football,available,25.99,25.99,medium,low,10,namesilo,,,19/09/2026 17:14
 fa38e92a-48d0-45a8-be7b-c2493c2c2efe,assurgent.football,available,19.99,37.99,medium,low,9,name.com,,,07/08/2026 08:26
 88d81328-96a4-44bb-a833-043c641972e0,input.football,available,25.99,25.99,high,low,5,namesilo,,,19/09/2026 11:49
 de4090a4-86e9-4c6d-8409-93fa02bcde35,uncaused.football,available,19.99,37.99,medium,low,8,name.com,,,18/08/2026 12:45
 604411ff-c0ec-402a-a7e0-260b96cada97,phycology.football,available,26.98,36.98,medium,low,9,namecheap,,,18/09/2026 07:09
-c296ca41-3112-4118-b079-578d24cd69bf,morning.football,available,19.99,,high,low,7,name.com,,,
+c296ca41-3112-4118-b079-578d24cd69bf,morning.football,available,25.99,25.99,high,low,7,namesilo,,,28/09/2026 01:56
 68dc8565-38e6-4271-9043-af2e6c19c408,pare.football,available,26.98,36.98,high,low,4,namecheap,,,11/09/2026 20:00
 6dab9793-b76e-4a59-9f11-bf1962749674,expected.football,available,19.99,37.99,high,low,8,name.com,,,17/08/2026 18:04
 902cb889-237c-4ed3-acb4-cc4c3cea5c27,insured.football,available,25.99,25.99,high,low,7,namesilo,,,27/09/2026 06:44
@@ -774,7 +788,7 @@ dbb4f77a-3058-4e80-aec4-eb32485d8d84,springlike.football,available,25.99,25.99,m
 e5ef500a-f954-41dc-aac4-74a064864cec,muttering.football,available,25.99,25.99,medium,low,9,namesilo,,,03/09/2026 11:14
 b0b95e31-947d-40de-8345-08570651fed6,renunciant.football,available,25.99,25.99,medium,low,10,namesilo,,,09/09/2026 14:23
 f2166923-87de-42fe-8d2e-4083238c7021,horrify.football,available,25.99,25.99,medium,low,7,namesilo,,,18/09/2026 01:56
-a48a54b3-f70b-4860-be6e-08db13a72a6e,astuteness.football,available,26.98,36.98,high,low,10,namecheap,,,20/09/2026 18:21
+a48a54b3-f70b-4860-be6e-08db13a72a6e,astuteness.football,available,26.98,36.98,medium,low,10,namecheap,,,20/09/2026 18:21
 3aa081c7-2d77-431c-a31f-34b9406f1d85,adjusted.football,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 18:42
 ba6d575d-7f5f-4d7b-b9b6-5b56a7b659df,attach.football,available,26.98,36.98,high,low,6,namecheap,,,23/09/2026 19:57
 f0490c0d-0520-44aa-b60a-057929cd8d76,gossip.football,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 13:15
@@ -792,14 +806,16 @@ bb2481b2-6c1c-4162-b1b9-aa5796979cdc,dayspring.football,available,25.99,25.99,hi
 b3cff3f9-a449-4e77-9f92-d0aa48b63024,coupon.football,available,26.98,36.98,high,low,6,namecheap,,,24/09/2026 18:44
 5bd8dad7-8e2b-4fee-9f59-80c679bd4fb4,carlos.football,premium,1040,1040,high,low,6,namecheap,,,19/09/2026 04:37
 687f0e07-7931-4980-9d1c-685ecc7f9b05,heatless.football,available,19.99,37.99,medium,low,8,name.com,,,21/08/2026 02:27
+a0d6d6e0-2426-40d9-826c-7a60df90e74e,casualties.football,available,25.99,25.99,medium,low,10,namesilo,,,27/09/2026 21:53
 ecfba7fe-a66f-4fbf-a2af-193792191e93,bullheaded.football,available,19.99,37.99,medium,low,10,name.com,,,11/08/2026 08:30
 4e576678-8aaf-4744-8ecf-571ae9077258,demoralize.football,available,19.99,37.99,medium,low,10,name.com,,,13/08/2026 02:16
 8d317d67-975e-4d32-8a5a-01dc5fa55760,bird.football,available,19.99,,high,medium,4,name.com,,,
 de0cf8b2-7b95-4168-9585-969597f58cb4,learns.football,available,25.99,25.99,medium,low,6,namesilo,,,20/09/2026 05:46
-9eba220a-d81f-46e5-a00e-b1b9a1be8e51,palladio.football,available,25.99,25.99,high,low,8,namesilo,,,19/09/2026 04:26
+9eba220a-d81f-46e5-a00e-b1b9a1be8e51,palladio.football,available,25.99,25.99,medium,low,8,namesilo,,,19/09/2026 04:26
 aa5ef007-572f-467b-bbd8-f658268d168f,motorbus.football,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 05:59
 acf14484-f10f-4196-8e4f-d7d606f24417,bodiless.football,available,19.99,37.99,medium,low,8,name.com,,,10/08/2026 16:48
 c3ec743b-16bd-45cc-957d-ec2da0b3bcd5,mmr.football,available,19.99,,high,low,3,name.com,,,
+97d0ce89-8c8f-42a0-98b9-1e130637a706,chains.football,available,20.2,20.2,high,low,6,cloudflare,,,27/09/2026 12:26
 bc99b813-bfd1-43a8-8850-2faa68a8a953,racer.football,available,26.98,36.98,high,low,5,namecheap,,,21/09/2026 07:11
 10ef4909-d5fd-4977-b4fc-7bea5f544cf0,giovanni.football,available,25.99,25.99,high,low,8,namesilo,,,25/09/2026 14:42
 81c6d687-f9a4-496b-ae85-782b417c6743,turtledove.football,available,25.99,25.99,medium,low,10,namesilo,,,21/09/2026 04:53
@@ -820,6 +836,7 @@ ed76d10d-62aa-48ef-981e-393b0c9329bb,nineteen.football,available,25.99,25.99,hig
 becf23af-ba1e-4bb1-9133-b01dbcc657d1,unhealthy.football,available,19.99,37.99,medium,low,9,name.com,,,22/08/2026 06:24
 c731e923-9dbf-4031-802a-fd477c9ea505,robin.football,premium,854,854,high,low,5,namesilo,,,
 92d2f6e0-2688-4b07-8a7a-59a968969561,boldface.football,available,19.99,37.99,high,low,8,name.com,,,10/08/2026 17:43
+2aa72e82-76b7-4d3a-9972-f5f1302dc2d4,kathy.football,available,20.2,20.2,high,low,5,cloudflare,,,27/09/2026 19:14
 5f1511a8-6794-43ac-8c9b-6861e2d76920,moses.football,available,25.99,25.99,high,low,5,namesilo,,,19/09/2026 10:00
 56e061ae-6663-4663-a5f7-24d6711d65df,adept.football,available,25.99,25.99,high,low,5,namesilo,,,21/09/2026 17:17
 edad42f3-7c00-4d7e-a743-fffec329b77f,surrender.football,available,19.99,,high,low,9,name.com,,,
@@ -827,11 +844,11 @@ edad42f3-7c00-4d7e-a743-fffec329b77f,surrender.football,available,19.99,,high,lo
 52189d9f-84ed-475d-afb6-76ae4a88c58e,gone.football,available,25.99,25.99,high,low,4,namesilo,,,22/09/2026 10:48
 95ab51ff-0aad-4bcd-b885-f3a1f5c1f2af,luther.football,available,25.99,25.99,high,low,6,namesilo,,,25/09/2026 23:29
 2b6d0010-cb2d-4658-98a8-7951a07e8c4f,berm.football,available,25.99,25.99,medium,low,4,namesilo,,,23/09/2026 09:41
-42ed1d21-db82-44f9-8aea-b3cfe1a13071,copland.football,available,25.99,25.99,high,low,7,namesilo,,,16/09/2026 13:32
+42ed1d21-db82-44f9-8aea-b3cfe1a13071,copland.football,available,25.99,25.99,medium,low,7,namesilo,,,16/09/2026 13:32
 122bbb6c-856b-49ae-899c-2b4b3020eec5,much.football,available,25.99,25.99,high,low,4,namesilo,,,25/09/2026 22:03
 87e49de8-a0dc-47e8-a439-1104f4d1e26c,feels.football,available,19.99,,high,low,5,name.com,,,
 24ee75f1-e5c4-4059-93e5-1cb6b237f7d5,betrothed.football,available,19.99,37.99,high,low,9,name.com,,,09/08/2026 18:07
-4f222765-9eab-4bd4-90b9-d66a780a02a9,checkered.football,available,19.99,37.99,high,low,9,name.com,,,12/08/2026 03:38
+4f222765-9eab-4bd4-90b9-d66a780a02a9,checkered.football,available,19.99,37.99,medium,low,9,name.com,,,12/08/2026 03:38
 73a28361-c8a9-4db0-b24c-acbd2b3c7f9c,fourthly.football,available,19.99,37.99,medium,low,8,name.com,,,18/08/2026 13:50
 b4d07ea0-8b82-4a22-873e-513b3c799eb7,sanctions.football,available,25.99,25.99,medium,low,9,namesilo,,,20/09/2026 01:56
 ae65d580-bb58-472b-acbc-24fecc0cdf6c,recaptured.football,available,26.98,36.98,medium,low,10,namecheap,,,18/09/2026 19:20
@@ -864,9 +881,10 @@ c6816128-74fa-4127-8802-f2cd5776abbe,moslem.football,available,19.99,37.99,high,
 fc27cc15-811a-445b-9e12-e0be29207444,accordion.football,available,25.99,25.99,high,low,9,namesilo,,,16/09/2026 23:02
 59af0770-692e-4a6f-8601-73f760ea9c36,symmetric.football,available,25.99,25.99,high,low,9,namesilo,,,11/09/2026 06:03
 4399dc91-5c30-4b8e-8430-7669f5674a29,local.football,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 14:09
-197b652b-a3ca-4fc6-99e5-df0695881d2d,rejection.football,available,19.99,,high,low,9,name.com,,,
+197b652b-a3ca-4fc6-99e5-df0695881d2d,rejection.football,available,19.99,,medium,low,9,name.com,,,
 35a04e20-7c30-4675-bcea-d69ad787605f,spare.football,available,25.99,25.99,high,low,5,namesilo,,,24/09/2026 15:52
 196f6ec2-fb7b-4469-89b9-437e7befec86,faecal.football,available,19.99,37.99,medium,low,6,name.com,,,17/08/2026 20:36
+0a7fc35f-8c77-4494-8eb5-fed17b05894c,dreamed.football,available,20.9,20.9,high,low,7,spaceship,,,27/09/2026 21:44
 ea304ccf-34e1-4d90-b0de-d24051e7574d,flattering.football,available,19.99,37.99,high,low,10,name.com,,,18/08/2026 06:57
 f7579617-2e9b-47f9-8cc9-010c7ba9e7c9,stalinist.football,available,26.98,36.98,medium,low,9,namecheap,,,10/09/2026 18:25
 a3d108a1-03ec-48b2-b473-618e59708650,alep.football,available,26.98,36.98,medium,low,4,namecheap,,,18/09/2026 05:14
@@ -894,19 +912,20 @@ bf488861-9c0c-4bfd-a555-c896db4207ff,aquavit.football,available,26.98,36.98,medi
 9f1307af-943e-4678-b430-83b1dcdc83d0,camping.football,available,19.99,,high,low,7,name.com,,,
 7fdfa27e-bdf1-4882-a6a3-3a5d60cd76dd,impression.football,available,19.99,,high,low,10,name.com,,,
 616f4dab-5fe2-49c9-ba3a-e686d20c6deb,ann.football,available,19.99,,high,low,3,name.com,,,
-9a08a5a8-1618-46db-843a-664a93bc845d,aftershock.football,available,25.99,25.99,high,low,10,namesilo,,,17/09/2026 15:51
+9a08a5a8-1618-46db-843a-664a93bc845d,aftershock.football,available,25.99,25.99,medium,low,10,namesilo,,,17/09/2026 15:51
 0c488bd8-d55c-4e43-8838-d738b88b434e,hemophilia.football,available,25.99,25.99,medium,low,10,namesilo,,,24/09/2026 05:26
 5b63458e-ac52-412b-aa8f-2f6c83222a52,nautical.football,available,19.99,37.99,high,low,8,name.com,,,24/08/2026 15:58
 5bba0c71-02ba-4048-a2e5-55932e044398,polynesian.football,available,19.99,37.99,high,low,10,name.com,,,24/08/2026 13:48
 e8f0bfe5-90aa-4ba9-b7eb-63b68bcbf2a6,impossibly.football,available,25.99,25.99,medium,low,10,namesilo,,,15/09/2026 04:27
 361973c5-d0bd-4aaf-bc8f-385f69733e94,geese.football,available,19.99,,medium,low,5,name.com,,,
 588a0cf2-838e-40c6-a0ac-56a554270e0a,prolonged.football,available,25.99,25.99,high,low,9,namesilo,,,27/09/2026 06:44
+52bbca27-eba4-40b8-9993-90c65001ba34,rosie.football,available,25.99,25.99,high,low,5,namesilo,,,27/09/2026 19:47
 06795aa0-2156-43fd-a32c-cffbde256643,adnexa.football,available,25.99,25.99,medium,low,6,namesilo,,,17/09/2026 09:05
 c264924e-7e0d-4607-a98a-ad8b41d22d67,plough.football,available,26.98,36.98,medium,low,6,namecheap,,,23/09/2026 14:29
 8b006c1d-5f58-49ee-8d3a-1129ea1b4867,evidenced.football,available,19.99,37.99,high,low,9,name.com,,,17/08/2026 15:00
 fbb9b8b0-ea2b-4f3a-a463-c4c36b475872,pleb.football,available,26.98,36.98,medium,low,4,namecheap,,,08/09/2026 21:04
 dbf5a6f2-acce-4743-85d3-b7352c36cefe,conceptive.football,available,19.99,37.99,medium,low,10,name.com,,,12/08/2026 20:03
-ed467636-5c50-4fed-a9d7-601acb58b681,skilled.football,available,19.99,,high,low,7,name.com,,,
+ed467636-5c50-4fed-a9d7-601acb58b681,skilled.football,available,25.99,25.99,high,low,7,namesilo,,,27/09/2026 22:20
 2def2281-0350-4995-9c80-b8052e4b8c6e,wideband.football,available,25.99,25.99,high,low,8,namesilo,,,13/09/2026 11:50
 7b7c2696-867e-439b-a880-dfedce668195,tattle.football,available,25.99,25.99,medium,low,6,namesilo,,,23/09/2026 23:36
 c3226cc2-0541-492d-bfdc-1ab11160e7f5,aerie.football,available,,,high,medium,5,,,,
@@ -946,19 +965,19 @@ e8e7fe9e-d338-4c1e-aa40-54b22c467127,ecological.football,available,26.98,36.98,h
 38dacf04-925c-4232-952a-d66b3a37a7e3,esteemed.football,available,25.99,25.99,high,low,8,namesilo,,,27/09/2026 06:43
 2c0c8ca6-c7dd-4493-86f2-61b3c23470cd,aptness.football,available,25.99,25.99,medium,low,7,namesilo,,,19/09/2026 22:03
 c6d33a2f-1aa1-4730-92e1-d969d7dcfa21,outer.football,available,19.99,,high,low,5,name.com,,,
-2cb90295-89dc-45bf-b520-d069914cf596,measure.football,available,19.99,,high,low,7,name.com,,,
+2cb90295-89dc-45bf-b520-d069914cf596,measure.football,available,20.2,20.2,high,low,7,cloudflare,,,28/09/2026 00:35
 4a36867d-8cf6-405c-a2c0-09d43fcdad13,milliliter.football,available,19.99,37.99,medium,low,10,name.com,,,11/08/2026 22:53
 cb4d1cbb-2673-4603-8351-5cf801b1e678,middleton.football,available,26.98,36.98,high,low,9,namecheap,,,25/09/2026 09:23
 609a6339-8801-4864-9860-65c772d59d94,cooler.football,available,26.98,36.98,high,low,6,namecheap,,,24/09/2026 18:05
 7dc93994-07ad-42ba-aa61-7235f9d1be42,themself.football,available,19.99,,medium,low,8,name.com,,,
-1d01ea7d-0ebd-4ede-a8e4-a79c12f8bfbc,attrition.football,available,25.99,25.99,high,low,9,namesilo,,,21/09/2026 02:20
+1d01ea7d-0ebd-4ede-a8e4-a79c12f8bfbc,attrition.football,available,25.99,25.99,medium,low,9,namesilo,,,21/09/2026 02:20
 c78bbd26-db9f-4545-aa92-d27c68298787,sailor.football,available,19.99,,high,low,6,name.com,,,
 91f6db32-0f99-4c1c-bca5-4ae4f9222659,faint.football,available,19.99,37.99,high,low,5,name.com,,,17/08/2026 21:01
 315295ee-07d2-4eaf-ad8b-7f3a0b4d808c,baryon.football,available,25.99,25.99,medium,low,6,namesilo,,,22/09/2026 09:41
 6d1c5056-662c-4c87-b05f-e1b2152a584c,dancers.football,available,25.99,25.99,high,low,7,namesilo,,,20/09/2026 05:50
 3b1ec9a4-4ca3-4ba3-a1ad-7705466efd31,selfless.football,available,25.99,25.99,high,low,8,namesilo,,,22/09/2026 02:51
 e54a0e4d-5627-4d2f-9510-3df77ebc9a7a,dabbled.football,available,19.99,37.99,medium,low,7,name.com,,,13/08/2026 15:12
-6376e3d3-bceb-49ac-a658-57f795713f29,aggravated.football,available,19.99,37.99,high,low,10,name.com,,,
+6376e3d3-bceb-49ac-a658-57f795713f29,aggravated.football,available,19.99,37.99,medium,low,10,name.com,,,
 d2bb9602-9c54-4a49-8aca-0041abf783d9,legged.football,available,19.99,37.99,high,low,6,name.com,,,22/08/2026 22:55
 f7336bff-0279-4423-a1e8-dd85fabb25e3,pittsburgh.football,available,25.99,25.99,high,low,10,namesilo,,,25/09/2026 12:54
 e96f5265-d865-4c6f-881d-b2b25afc2377,loaded.football,available,19.99,37.99,high,low,6,name.com,,,
@@ -980,22 +999,3 @@ bda00516-b25b-4cc1-a223-a5b95e5292bb,tapped.football,available,19.99,37.99,high,
 2938d2ff-37c0-4a70-a21d-fb10d810d1b5,radiantly.football,available,25.99,25.99,medium,low,9,namesilo,,,15/09/2026 22:18
 468b94dd-d98b-4801-a170-a1c7c548a4dc,babylonia.football,available,25.99,25.99,high,low,9,namesilo,,,21/09/2026 13:51
 6a237238-4ac4-49a8-862b-65e28d34587d,evident.football,available,19.99,37.99,high,low,7,name.com,,,06/08/2026 05:13
-29978be7-fe7f-4b26-ab9e-2f1a82571e8e,girdle.football,available,25.99,25.99,high,low,6,namesilo,,,24/09/2026 15:02
-7a51a9b9-0b3a-41a2-aac3-be86ca130453,analyser.football,available,25.99,25.99,high,low,8,namesilo,,,19/09/2026 01:57
-f9a46c42-518e-4b13-a727-b7d8422a3a1e,landscape.football,available,25.99,25.99,high,low,9,namesilo,,,25/09/2026 04:23
-7f6fc6af-97cf-420c-8de8-df1e919daea3,marines.football,available,19.99,,high,low,7,name.com,,,
-a3b5a824-5723-4ab3-ac92-a6ee6b981dab,spotify.football,available,,,high,high,7,,,,
-0aaad41a-f1b5-4915-a01b-f8ef5036836c,decisive.football,available,19.99,37.99,high,low,8,name.com,,,13/08/2026 21:36
-2d15a740-e90b-4a1b-9e91-9faff7889c0d,noxious.football,available,25.99,25.99,medium,low,7,namesilo,,,03/09/2026 22:21
-9e80afdf-40fc-4165-bf21-bb3de6e4e6a1,taste.football,available,19.99,,high,low,5,name.com,,,
-6471d0ba-021b-44a0-b130-8c928a495b7f,lite.football,available,26.98,36.98,high,low,4,namecheap,,,27/09/2026 06:44
-21d7a846-e230-4236-bd70-94e20df1a5b2,laic.football,available,19.99,37.99,medium,low,4,name.com,,,22/08/2026 18:47
-47b48b03-f048-45d0-b438-10b01216252d,betaine.football,available,26.98,36.98,medium,low,7,namecheap,,,23/09/2026 11:03
-b5d69bc1-18ed-4dee-a84a-de7f9b83fc5e,scholar.football,available,25.99,25.99,high,low,7,namesilo,,,20/09/2026 16:28
-687f934f-4449-4ca2-ae29-ae98becc297c,afterimage.football,available,25.99,25.99,high,low,10,namesilo,,,17/09/2026 15:42
-a7de808f-9314-4406-b278-b2aa0703ea3a,prompt.football,available,25.99,25.99,high,medium,6,namesilo,,,27/09/2026 07:29
-2d63156e-5f36-48a1-8c70-4b83a5f70bb1,issue.football,available,19.99,,high,low,5,name.com,,,
-807c28ef-1e67-43e9-8818-13aee7aa1519,stupidly.football,available,19.99,37.99,medium,low,8,name.com,,,14/09/2026 13:43
-63c4d70b-1d57-4b2b-a0e6-d09cd20cb4f8,surprises.football,available,25.99,25.99,high,low,9,namesilo,,,20/09/2026 10:56
-46758574-10b8-405a-86e8-cd343256421e,decade.football,available,25.99,25.99,high,low,6,namesilo,,,21/09/2026 10:56
-a900687f-27c0-4272-8f77-aa62627a67f2,beltway.football,available,26.98,36.98,high,low,7,namecheap,,,23/09/2026 07:15
