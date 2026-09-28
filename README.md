@@ -1,10 +1,10 @@
-# Available .FOOTBALL One-Word Domains (23,550)
+# Available .FOOTBALL One-Word Domains (24,105)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C550%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C105%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .football one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,550 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,105 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,550 domains · **Median ask:** $29.01 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 24,105 domains · **Median ask:** $29.06 · **High-demand under $2,500:** 6
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/football`
@@ -78,12 +78,12 @@ print(df.head())
 | ear.football   | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | bari.football  | premium   | $1,040    | $1,040        | high           | low    | 4      | namecheap         |
 | ein.football   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo          |
-| time.football  | premium   | $854      | $854          | high           | medium | 4      | namesilo          |
+| earl.football  | premium   | $1,040    | $1,040        | high           | low    | 4      | namecheap         |
 | hdl.football   | available | $25.99    | $25.99        | high           | low    | 3      | namesilo          |
+| time.football  | premium   | $854      | $854          | high           | medium | 4      | namesilo          |
+| jen.football   | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare        |
 | cuban.football | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
-| liz.football   | available | $26.98    | $36.98        | high           | low    | 3      | namecheap         |
-| hindu.football | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo          |
-| lxi.football   | available | $19.99    | $37.99        | medium         | low    | 3      | name.com          |
+| kwh.football   | available | $25.99    | $25.99        | medium         | low    | 3      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,550 live domains                        |
+| 1,000-row public sample | 24,105 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 5 high-demand names under $2,500           |
+| Basic exported fields   | 6 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
